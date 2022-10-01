@@ -101,3 +101,9 @@ https://open-insurance.org
 ---
 ### thanks a lot
 for having us 👨‍🏫
+## ❤️
+
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwemakeit.com%2Fprojects%2Fvoice-up-your-libreoffice%2F&size=250x250&ecc=L)
+
+https://wemakeit.com/projects/voice-up-your-libreoffice
+until 4th November 22
