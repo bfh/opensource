@@ -2,4 +2,4 @@
 
 # open-source
 
-Open Source @ IPST
+Open Source @ [Institute for Public Sector Transformation at Bern University of Applied Sciences (IPST)](https://www.bfh.ch/ipst)
