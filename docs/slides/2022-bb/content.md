@@ -14,7 +14,7 @@ board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinaco
 ---
 # 👨‍🏫 .. 🤔 .. ⭐
 
-```md [1-2|3-4|5-8|9-11]
+```md [|1-2|3-4|5-8|9-11]
 Was macht dein Unternehmen mit Open-Source Software: 
 ignorieren, nutzen oder gar mitwirken? > 1️⃣
 Wir steigen ein mit einem leichtgewichtigen 
@@ -28,11 +28,9 @@ Erfahrungen, Referenzen und [...] Informationen > 4️⃣
 aus verschiedenen Unternehmen und Wirtschaftszweigen.
 ```
 ---
-
 # 1️⃣
 
 #### Was macht dein Unternehmen mit Open Source (Software): ignorieren, nutzen oder gar mitwirken; strategisch?
-
 --
 ### Was macht dein Unternehmen mit Open Source (Software)? 🪑
 ```md [1-2|5-6|11-12|15|3,7-9,13|17-19|2,6,12]
@@ -57,13 +55,10 @@ aus verschiedenen Unternehmen und Wirtschaftszweigen.
 ♻️ (10) Beitrag zur nachhaltigen Entwicklung
 ```
 #### [♻️ Digitale Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit)
-
 ---
-
 # 2️⃣ ✅
 
 #### leichtgewichtiges Maturitätsmodell zur eigenen Standortbestimmung
-
 --
 ![](https://baloise.github.io/open-source/docs/arc42/images/os-maturity-model.png)
 
@@ -75,10 +70,34 @@ https://[landscape](https://landscape.todogroup.org).[todogroup.org](https://tod
 
 ➡️ https://ospo101.org
 ---
-
 # 3️⃣
 
 #### Vor- und Nachbedingungen sowie Empfehlungen
----
 
+im digitalen Zeitalter
+---
 # 4️⃣
+
+#### 💪 Erfahrungen, ⭐ Referenzen und [...] 💡 Informationen
+
+🏢 Unternehmen und Wirtschaftszweigen
+--
+💪 Eclipse Foundation [Working Groups](https://www.eclipse.org/org/workinggroups/explore.php) for [Industry Collaborations](https://www.eclipse.org/collaborations/) > 🏢
+___
+⭐ The Linux Foundation [OSPO & Case Studies](https://todogroup.org/guides/#ospo-case-studies) > 🏢
+___
+💡 https://osb-alliance.de
+
+🇨🇭 https://www.ch-open.ch
+--
+# 👨‍🏫 🏢
+## 1 - 3
+https://github.com/baloise/open-source
+
+[Baloise Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+___
+## 4
+https://open-insurance.org
+---
+### thanks a lot
+for having us 👨‍🏫
