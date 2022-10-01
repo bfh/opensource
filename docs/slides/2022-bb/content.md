@@ -1,4 +1,4 @@
-![](https://bits-und-baeume.org/assets/images/bitsundbaeume22_infografik-1200w.webp)
+![](https://bits-und-baeume.org/assets/images/bitsundbaeume22_infografik-800w.webp)
 
 ### [OSS-Maturität in Unternehmen](https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/BWSLF3/)
 
