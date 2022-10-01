@@ -1,6 +1,6 @@
 ![](https://bits-und-baeume.org/assets/images/bitsundbaeume22_infografik-1200w.webp)
 
-# [OSS-Maturität in Unternehmen]([https://sitic.org/digital-sustainability/](https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/BWSLF3/))
+# [OSS-Maturität in Unternehmen](https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/BWSLF3/)
 
 Sonntag 02. Oktober, 17:00 – 17:40 Uhr
 --
