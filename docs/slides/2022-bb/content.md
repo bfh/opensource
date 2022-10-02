@@ -6,9 +6,7 @@ CC-BY-4.0 & [Quelle](https://github.com/digital-sustainability/open-source/blob/
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
-[@MarkusTiede](https://twitter.com/MarkusTiede) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) [@BFH_Wirtschaft](https://twitter.com/bfh_wirtschaft)
-
-board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
+[@MarkusTiede](https://twitter.com/MarkusTiede) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
 ![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
 ---
@@ -65,16 +63,35 @@ aus verschiedenen Unternehmen und Wirtschaftszweigen.
 https://www.eclipse.org
 --
 ![](https://github.com/todogroup/ospo101/raw/main/module2/os-ladder.png)
-
-https://[landscape](https://landscape.todogroup.org).[todogroup.org](https://todogroup.org)/[guides](https://todogroup.org/guides/)
-
-➡️ https://ospo101.org
+https://[landscape](https://landscape.todogroup.org).[todogroup.org](https://todogroup.org)/[guides](https://todogroup.org/guides/) ➡️ https://ospo101.org
 ---
 # 3️⃣
-
 #### Vor- und Nachbedingungen sowie Empfehlungen
 
 im digitalen Zeitalter
+--
+### A ➡️ B ?
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Menge_Venn-Diagramm_001.svg/500px-Menge_Venn-Diagramm_001.svg.png?uselang=de)](https://commons.wikimedia.org/wiki/File:Menge_Venn-Diagramm_001.svg?uselang=de)
+--
+## A ∪ B !
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Menge_Venn-Diagramm_010.svg/500px-Menge_Venn-Diagramm_010.svg.png?uselang=de)](https://commons.wikimedia.org/wiki/File:Menge_Venn-Diagramm_010.svg?uselang=de)
+
+Automatisierung: [Dependency Management](https://github.com/hakimel/reveal.js/network/dependencies), [Source Code Scanning](https://www.openhub.net/p/git), [Community at scale](https://github.com/kubernetes/test-infra/blob/master/prow/cmd/peribolos/README.md#peribolos-documentation), ...
+--
+## [Pivotpunkt(e)](https://de.wikipedia.org/wiki/Angelpunkt)
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Menge_Venn-Diagramm_008.svg/500px-Menge_Venn-Diagramm_008.svg.png?uselang=de)](https://commons.wikimedia.org/wiki/File:Menge_Venn-Diagramm_008.svg?uselang=de)
+--
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hebel3.png/640px-Hebel3.png)](https://commons.wikimedia.org/wiki/File:Hebel3.png)
+--
+## Menschen
+Handeln & **Vor**leben nach Guidelines
+
+[![](https://avatars.githubusercontent.com/u/1564818?s=200&v=4)](https://github.com/zalando)
+
+[Beispiel aus Berlin](https://opensource.zalando.com/docs)
 ---
 # 4️⃣
 
