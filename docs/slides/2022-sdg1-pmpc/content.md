@@ -18,3 +18,6 @@ Board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinaco
 
 ![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
 ---
+![](https://luki.org/wp-content/uploads/2019/05/pmpc_logo_horizontal.jpg)
+
+https://publiccode.eu
