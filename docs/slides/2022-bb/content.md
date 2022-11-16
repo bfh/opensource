@@ -4,6 +4,10 @@
 
 CC-BY-4.0 & [Quelle](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2022-bb/content.md)
 --
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fgithub.com%2Fdigital-sustainability%2Fopen-source%2Fblob%2Fmain%2Fdocs%2Fslides%2F2022-bb%2Fcontent.md&qzone=0&margin=0&size=400x400&ecc=L)
+
+## Scan me!
+--
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
 [@MarkusTiede](https://twitter.com/MarkusTiede) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
