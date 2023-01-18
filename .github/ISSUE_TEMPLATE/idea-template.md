@@ -1,7 +1,7 @@
 ---
 name: Idea Template
 about: To create Ideas.
-title: A short name for the idea
+title: Idea: A short name for the idea
 labels: ''
 assignees: ''
 
