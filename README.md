@@ -2,7 +2,7 @@
 
 # Open Source
 
-Open-Source is part of the strategic field of [Humane Digital Transformation](https://www.bfh.ch/en/strategic-thematic-fields/digital-transformation/) @ [Bern University of Applied Sciences | BFH](https://www.bfh.ch/en/) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
+Open Source is part of the strategic field of [Humane Digital Transformation](https://www.bfh.ch/en/strategic-thematic-fields/digital-transformation/) @ [Bern University of Applied Sciences | BFH](https://www.bfh.ch/en/) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
 
 ## our goals
 
