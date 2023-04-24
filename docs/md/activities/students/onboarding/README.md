@@ -9,9 +9,9 @@ Issues: https://github.com/bfh/opensource/issues/53 and https://github.com/bfh/o
 - Teachers
     - [] before start of semester: for each study program, send request for support via mail to "Studiengangleiter" and all teachers containing
         - [] information about OSS @ BFH
-	- [] request for participation in survey on which software is used in which course: software name, software description, software license, use of software in course, learning material
-	- [] slides that could be used as general student welcome / Moodle page
-	- [] slides that could be used for introduction to courses where OSS software is used
+        - [] request for participation in survey on which software is used in which course: software name, software description, software license, use of software in course, learning material
+	    - [] slides that could be used as general student welcome / Moodle page
+	    - [] slides that could be used for introduction to courses where OSS software is used
     - [] publish results as BFH News (Mail, Intranet, LinkedIn)
 - Students
     - [] beginning of semester: for each study program, send welcome mail containing
@@ -19,7 +19,7 @@ Issues: https://github.com/bfh/opensource/issues/53 and https://github.com/bfh/o
         - [] resources
     - [] middle or end of semester: for each study program, send mail survey on
         - OSS used in classes and experiences
-	- possible alternative or additional OSS
+	    - possible alternative or additional OSS
 
 ### Resources
 
