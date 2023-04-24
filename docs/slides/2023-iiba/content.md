@@ -16,27 +16,38 @@ Tuesday, April 25, 2023 - 18:00 to 19:00
 [...] basics of business analysis and 
 how open source principles support it. > 1️⃣
 
-[...] excursion to the "top low-hanging Open Source 
-Fruits" alternatives: 10 Tools in 10 Minutes. > 2️⃣
+[...] excursion to the "top low-hanging open source 
+fruits" alternatives: 10 tools in 10 minutes. > 2️⃣
 
 [...] dive into open-source basics: licenses 
 and other important evaluation criteria > 3️⃣
 
 [...] overview of national and international 
-activities and current trends. > 4️⃣
+activities and current trends > 4️⃣
 ```
 ---
 # 1️⃣
+
+basics of **business analysis** & **open source**
+--
+> Business Analysis is the practice of enabling change in an organizational context, by defining needs and **recommending solutions that deliver value** to stakeholders.
+
+[IIBA - What is Business Analysis?](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 ---
-# 2️⃣
+# 2️⃣ 
+
+top 10 open source ~~tools~~ solutions
 ---
 # 3️⃣
+
+licenses and other evaluation criteria
 ---
 # 4️⃣
+
+current activities and trends
 ---
-### thanks a lot
-for having us!
---
+### thanks a lot - for having us!
+
 ![](https://www.ch-open.ch/wp-content/uploads/2021/12/logo_chopen_web_big-1.png)
 
 CC-BY-4.0 & [Quelle](https://github.com/bfh/opensource/blob/main/docs/slides/2023-iiba/content.md)
