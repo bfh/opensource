@@ -54,6 +54,28 @@ Fragen & Diskussion
 ---
 ## Digitale Nachhaltigkeit
 in Solingen
+--
+BFH & Stadt Solingen
+## gemeinsame Aktivitäten
+
+2022 - Digitale Nachhaltigkeit in Smart City Projekten: Evidenz aus einer Fallstudienanalyse
+--
+| Projekt                              | DINA-Score |
+| -------------------------------------|-----------:|
+| Smart City Steuerung 2030            | 6.7        |
+| Luftsensoren                         | 6          |
+| Kanzleisoftware                      | 8.2        |
+| headless CMS                         | 7.6        |
+| Digitale Stelen                      | 8.3        |
+| Beteiligungssoftware Bürger:innen    | 4.4        |
+| Verkehrsmodell / digitaler Zwilling  | 4.8        |
+| Masterportal und Schnittstellen      | 9          |
+--
+## IT-Strategie der Stadt
+
+strategischer **Rahmen im Sinne der Digitalen Nachhaltigkeit** gesetzt
+
+Operationalisierung ist vorbereitet ✅
 ---
 ## Digital Public Goods
 Trend 1
@@ -113,16 +135,27 @@ https://scs.community/de/about/
 
 ## Take Aways
 --
-# 1
+# Digital Public Goods
+
+Konzept(e) weiterentwickeln
 --
-# 2
+# ✅
+nachhaltige(re) KI
+
+Stichwort: Training der Modelle
 --
-# 3
---
-## Scan me!
+# Souveränität ist möglich
+
+aber es braucht noch einen langen Atem
+---
+## Folien - Scan mich!
 
 ![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fgithub.com%2Fbfh%2Fopensource%2Fblob%2Fmain%2Fdocs%2Fslides%2F2023-sol%2Fcontent.md&qzone=0&margin=0&size=400x400&ecc=L)
 
 [Source](https://github.com/bfh/opensource/blob/main/docs/slides/2023-sol/content.md) licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 
 --
 ## Q&A
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-opensource-2023-sol&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+https://etherpad.wikimedia.org/p/bfh-opensource-2023-sol
