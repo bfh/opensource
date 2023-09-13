@@ -14,18 +14,18 @@ Waldhotel Heiligenhaus
 ---
 # Agenda
 
-```md [|1-2|4|6-9|11|]
-Digitale Nachhaltigkeit &| Nachhaltige Digitalisierung
+```md [|1-4|6-9|11|]
+Digitale Nachhaltigkeit / Nachhaltige Digitalisierung (15')
+- Einleitung
 - Grundlagen & Voraussetzungen
+- in Solingen
 
-Digitale Nachhaltigkeit in Solingen 
-
-aktuelle Trends
+aktuelle Trends (3 x 10')
 - Digital Public Goods
 - KI und Nachhaltigkeit
 - Digitale Souveränität
   
-Fragen & Diskussion
+Fragen & Diskussion (15')
 ```
 --
 ## Fragen
@@ -103,6 +103,14 @@ Trend 2
 
 OpenAI != Open Source AI
 --
+[![](https://spectrum.ieee.org/media-library/llama-in-a-cage-with-a-computer-background.jpg?id=34681852&height=500)](https://spectrum.ieee.org/open-source-llm-not-open)
+
+aktueller Trend: "Open-Washing"
+--
+<iframe width="1024" height="576" src="https://opening-up-chatgpt.github.io" frameborder="0" allowfullscreen></iframe>
+
+https://opening-up-chatgpt.github.io
+--
 ![](https://open-assistant.io/images/logos/logo.svg)
 
 https://open-assistant.io
@@ -147,6 +155,20 @@ Stichwort: Training der Modelle
 # Souveränität ist möglich
 
 aber es braucht noch einen langen Atem
+--
+<!-- .element: data-background-color="lightgreen" -->
+
+**weiterführende Informationen**
+--
+[![YouTube Video Link](https://img.youtube.com/vi/mh7qUIcDIeg/0.jpg)](https://youtu.be/mh7qUIcDIeg)
+
+OSS-Beispiele aus der öffentlichen IT in Deutschland | **Clarisse Schröder**
+--
+[![](https://blog.do-foss.de/wp-content/uploads/ort-fuer-oeffentlichen-code-unterstuetzer.png)](https://do-foss.de)
+--
+<iframe width="1024" height="500" src="https://media.ccc.de/v/camp2023-57073-public_money_bei_der_arbeit/oembed" frameborder="0" allowfullscreen></iframe>
+
+[Public Money bei der Arbeit die Deutsche Verwaltung und Open Source | **Thomas Fricke**](https://media.ccc.de/v/camp2023-57073-public_money_bei_der_arbeit)
 ---
 ## Folien - Scan mich!
 
