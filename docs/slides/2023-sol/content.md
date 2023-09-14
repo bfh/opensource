@@ -51,6 +51,11 @@ Fragen & Diskussion (15')
 --
 
 ![](https://open-co.de/2022-sitic-dina-workshop/slides/dina-criteria.png)
+--
+![](https://dinacon.ch/wp-content/uploads/sites/4/2017/06/DINAcon_Logo_web-1-1.png)
+[2021](https://awards.dinacon.ch/gewinner2021/) - [2020](https://awards.dinacon.ch/gewinner2020/) - [2019](https://awards.dinacon.ch/kontakt/vergangene-awards/gewinner-2019/) - [2018](https://awards.dinacon.ch/kontakt/vergangene-awards/gewinner-2018/) - [2017](https://awards.dinacon.ch/kontakt/vergangene-awards/gewinner-2017/)
+
+[opendata.swiss](https://opendata.swiss)[/showcase/sonnenfassade-ch](https://opendata.swiss/showcase/sonnenfassade-ch)
 ---
 ## Digitale Nachhaltigkeit
 in Solingen
@@ -58,24 +63,26 @@ in Solingen
 BFH & Stadt Solingen
 ## gemeinsame Aktivitäten
 
-2022 - Digitale Nachhaltigkeit in Smart City Projekten: Evidenz aus einer Fallstudienanalyse
+2022 - Digitale Nachhaltigkeit in Smart City Projekten: Evidenz aus einer Fallstudienanalyse ([Amir Sahi](https://www.bfh.ch/de/ueber-die-bfh/personen/vfiv6lhljhqf/))
 --
 | Projekt                              | DINA-Score |
 | -------------------------------------|-----------:|
-| Smart City Steuerung 2030            | 6.7        |
-| Luftsensoren                         | 6          |
+| Masterportal und Schnittstellen      | 9          |
+| Digitale Stelen                      | 8.3        |
 | Kanzleisoftware                      | 8.2        |
 | headless CMS                         | 7.6        |
-| Digitale Stelen                      | 8.3        |
-| Beteiligungssoftware Bürger:innen    | 4.4        |
+| Smart City Steuerung 2030            | 6.7        |
+| Luftsensoren                         | 6          |
 | Verkehrsmodell / digitaler Zwilling  | 4.8        |
-| Masterportal und Schnittstellen      | 9          |
+| Beteiligungssoftware Bürger:innen    | 4.4        |
 --
 ## IT-Strategie der Stadt
 
 strategischer **Rahmen im Sinne der Digitalen Nachhaltigkeit** gesetzt
 
 Operationalisierung ist vorbereitet ✅
+
+> [...] knapp mit dem Güteprädikat «gut» bewertet.
 ---
 ## Digital Public Goods
 Trend 1
