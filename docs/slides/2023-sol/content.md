@@ -80,11 +80,13 @@ Digitale Nachhaltigkeit in Smart City Projekten
 --
 ## IT-Strategie der Stadt
 
-strategischer **Rahmen im Sinne der Digitalen Nachhaltigkeit** gesetzt 🌱
+strategischer **Rahmen im Sinne der Nachhaltigkeit** gesetzt 🌱
 
-Operationalisierung ist vorbereitet ✅
+Operationalisierung ist beispielhaft vorbereitet ✅
 
 > [...] knapp mit dem Güteprädikat «gut» bewertet.
+
+
 ---
 ## Digital Public Goods
 Trend 1
@@ -154,14 +156,17 @@ https://scs.community/de/about/
 --
 # Digital Public Goods
 
-Konzept(e) weiterentwickeln
+Strategie **schärfen & weiterentwickeln**
 
-Lösungen einreichen
+vorhandene **Lösungen evaluieren**
+
+eigene Lösungen **einreichen**
 --
+## digital nachhaltige(re) KI
 # ✅
-digital nachhaltige(re) KI
 --
-# Souveränität ist möglich
+## digitale Souveränität 
+# ist möglich
 
 aber es braucht noch einen langen Atem
 --
