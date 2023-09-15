@@ -60,10 +60,12 @@ Fragen & Diskussion (15')
 ## Digitale Nachhaltigkeit
 in Solingen
 --
-BFH & Stadt Solingen
-## gemeinsame Aktivitäten
+Berner Fachhochschule & Stadt Solingen
+## [Zusammenarbeit](https://solingen.digital/projekte/digitale-nachhaltigkeit-zusammenarbeit-mit-der-universitaet-bern) 2022
 
-2022 - Digitale Nachhaltigkeit in Smart City Projekten: Evidenz aus einer Fallstudienanalyse ([Amir Sahi](https://www.bfh.ch/de/ueber-die-bfh/personen/vfiv6lhljhqf/))
+Digitale Nachhaltigkeit in Smart City Projekten
+
+**Evidenz aus einer Fallstudienanalyse** - [Amir Sahi](https://www.bfh.ch/de/ueber-die-bfh/personen/vfiv6lhljhqf/)
 --
 | Projekt                              | DINA-Score |
 | -------------------------------------|-----------:|
@@ -78,7 +80,7 @@ BFH & Stadt Solingen
 --
 ## IT-Strategie der Stadt
 
-strategischer **Rahmen im Sinne der Digitalen Nachhaltigkeit** gesetzt
+strategischer **Rahmen im Sinne der Digitalen Nachhaltigkeit** gesetzt 🌱
 
 Operationalisierung ist vorbereitet ✅
 
@@ -153,11 +155,11 @@ https://scs.community/de/about/
 # Digital Public Goods
 
 Konzept(e) weiterentwickeln
+
+Lösungen einreichen
 --
 # ✅
-nachhaltige(re) KI
-
-Stichwort: Training der Modelle
+digital nachhaltige(re) KI
 --
 # Souveränität ist möglich
 
