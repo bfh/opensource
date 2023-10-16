@@ -137,7 +137,7 @@ Top 10 Fragen "zum Trend"
 
 ___
 
-**T**hink (10') - 2er **P**air (10') - **S**hare 8 x 3' (24')...
+**T**hink (10') - 2er **P**air (15') - **S**hare 8 x 2' (16')...
 
 and **Vote** (1')!
 --
@@ -153,7 +153,7 @@ https://landscape.todogroup.org
 And note question(s) for yourself!
 
 --
-## Pair - [⏲️](https://youtu.be/DcvtwlM1aIE)
+## Pair - [⏲️](https://youtu.be/1gQJUjgCqrU)
 
 8 x "1, 2 & 3"
 
