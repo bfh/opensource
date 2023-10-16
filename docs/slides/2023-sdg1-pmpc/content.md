@@ -44,7 +44,7 @@ http://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc
 ---
 [![YouTube Video: CNBC The Rise Of Open-Source Software](https://img.youtube.com/vi/SpeDK1TPbew/0.jpg)](https://www.youtube.com/watch?v=SpeDK1TPbew)
 
-[Interaktion 1 & 2](https://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc)
+[Interaktion 1](https://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc)
 --
 [![YouTube Video: 2020 ASWF Projects Reel](https://img.youtube.com/vi/jPpBcHCMlA4/0.jpg)](https://www.youtube.com/watch?v=jPpBcHCMlA4)
 
@@ -78,7 +78,7 @@ https://publiccode.eu
 --
 # Begriffe
 
-[Interaktion 3](https://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc)
+[Interaktion 2](https://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc)
 
 - Public Code : "[Open Source](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module1/README.md#what-is-open-source-software)" ✅
 - [Free](https://freebeer.org/blog/label) and Open Source 
@@ -137,9 +137,9 @@ Top 10 Fragen "zum Trend"
 
 ___
 
-**T**hink (10') - 2er **P**air (10') - **S**hare 7 x 3' (21')...
+**T**hink (10') - 2er **P**air (10') - **S**hare 8 x 3' (24')...
 
-and **Vote** (4')!
+and **Vote** (1')!
 --
 ## Think - [⏲️](https://youtu.be/DcvtwlM1aIE)
 
@@ -155,7 +155,7 @@ And note question(s) for yourself!
 --
 ## Pair - [⏲️](https://youtu.be/DcvtwlM1aIE)
 
-1&2, 3&1, 2&3, 1&2, ...
+8 x "1, 2 & 3"
 
 [teilt eure ca. **Top 3 Fragen** pro Pair bitte im Pad](https://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc)
 --
@@ -170,4 +170,4 @@ And note question(s) for yourself!
 ---
 # Ask me anything
 
-Antwort ca. 5' pro Frage inkl. Link
+Antwort ca. 4' pro Frage inkl. Link
