@@ -120,9 +120,9 @@ https://github.com/sindresorhus/awesome
 
 ___
 
-#### 3 [TODOGroup & OSPO](https://todogroup.org)
+#### 3 [inosca](https://inosca.ch)
 
-https://landscape.todogroup.org
+https://github.com/inosca/ebau
 
 ---
 # ☕
@@ -148,7 +148,7 @@ https://github.com/torvalds/linux
 ### 2
 https://github.com/sindresorhus/awesome
 ### 3
-https://landscape.todogroup.org
+https://github.com/inosca/ebau
 
 And note question(s) for yourself!
 
