@@ -5,7 +5,7 @@
 (virtual)
 
 ### bi-weekly OST
-Feel free to join our biweekly (every even calender week) exchange round from [10.00 - 11.00](https://time.is/de/Bern) which is also the start into our [**O**pen **S**ource ~~Friday~~ **T**hursday (OST)](https://opensourcefriday.com).
+Feel free to join our biweekly (every even calender week) exchange round from [10.00 - 10.30](https://time.is/de/Bern) which is also the start into our [**O**pen **S**ource ~~Friday~~ **T**uesday (OST)](https://opensourcefriday.com).
 
 #### agenda
 
