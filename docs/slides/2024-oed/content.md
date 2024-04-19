@@ -40,6 +40,14 @@ https://virtuelleakademie.ch/knowledge-base/kategorie/oer-entwickeln/
 <hr>
 
 https://virtuelleakademie.ch/knowledge-base/cc-lizenzen-richtig-nutzen/
+--
+# Lizenz(ieren)
+
+**Quelle: [Markdown](https://raw.githubusercontent.com/bfh/opensource/main/docs/slides/2024-oed/content.md) ✅**
+
+<hr>
+
+Binaries: PPTX, PDF, [Webseite](https://github.com/bfh/opensource/blob/main/docs/slides/2024-oed/content.md#open-educational-resources), ... ❌
 ---
 # 2️⃣
 
