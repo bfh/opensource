@@ -89,14 +89,16 @@ git clone https://github.com/bfh/reveal.js.git
 
 ## Referenzen aus der Lehrpraxis
 --
-https://github.com/bfh/reveal.js
+Theme: https://github.com/bfh/reveal.js
 
 <hr>
 
+⭐ https://bfh.github.io
+
 https://github.com/digital-sustainability
 
-- [module-wseg](https://github.com/digital-sustainability/module-wseg)
-- [module-eoss](https://github.com/digital-sustainability/module-eoss)
+- 6 ECTS: [module-wseg](https://github.com/digital-sustainability/module-wseg)
+- 3 ECTS: [module-eoss](https://github.com/digital-sustainability/module-eoss)
 
 <hr>
 
