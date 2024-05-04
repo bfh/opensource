@@ -21,9 +21,9 @@ CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/open-source/blob/m
 # 👨‍🏫 .. 🤔 .. ⭐
 
 ```md [|1|3|5-6|8|]
-Open Educational Resources: quelloffene Lehrinhalte > 1️⃣
+Einleitung ✅ und einer Übersicht der Features > 1️⃣ 
 
-Einleitung ✅ und einer Übersicht der Features > 2️⃣ 
+Open Educational Resources: quelloffene Lehrinhalte > 2️⃣
 
 leichtgewichtiges technisches Setup > 3️⃣ 
  - Live-Demonstration!
@@ -32,6 +32,22 @@ Referenzen aus der Lehrpraxis > 4️⃣
 ```
 ---
 # 1️⃣
+
+## Übersicht der Features
+--
+<img src="https://static.slid.es/reveal/logo-v1/reveal-black-text.svg" width="800px">
+
+https://revealjs.com/?demo
+--
+# Top 3
+
+Webseite & [Links](https://revealjs.com/links/)
+
+[Markdown](https://revealjs.com/markdown/)
+
+[Media](https://revealjs.com/media/) & [Code](https://revealjs.com/code/)
+---
+# 2️⃣
 
 ## Open Educational Resources
 --
@@ -49,22 +65,6 @@ https://virtuelleakademie.ch/knowledge-base/cc-lizenzen-richtig-nutzen/
 
 Binaries: PPTX, PDF, [Webseite](https://github.com/bfh/opensource/blob/main/docs/slides/2024-oed/content.md#open-educational-resources), ... ❌
 ---
-# 2️⃣
-
-## Übersicht der Features
---
-<img src="https://static.slid.es/reveal/logo-v1/reveal-black-text.svg" width="800px">
-
-https://revealjs.com/?demo
---
-# Top 3
-
-Webseite & [Links](https://revealjs.com/links/)
-
-[Markdown](https://revealjs.com/markdown/)
-
-[Media](https://revealjs.com/media/) & [Code](https://revealjs.com/code/)
----
 # 3️⃣
 
 ## technisches Setup
@@ -73,17 +73,23 @@ Webseite & [Links](https://revealjs.com/links/)
 
 ```bash [|2-4|7|]
 # install Node.js (10.0.0 or later)
-git clone https://github.com/hakimel/reveal.js.git 
-  && cd reveal.js && npm install
+git clone https://github.com/hakimel/reveal.js.git \
+  && cd reveal.js && npm install \
   && npm start
 
 # BFH Theme
-git clone https://github.com/bfh/reveal.js.git 
-  && cd reveal.js && npm install
+git clone https://github.com/bfh/reveal.js.git \
+  && cd reveal.js && npm install \
   && npm start
 ```
 --
 # Live-Demo
+
+1. `index.html`
+
+2. `demo.html`
+
+3. `bfh.html`
 ---
 # 4️⃣
 
