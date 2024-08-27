@@ -250,7 +250,7 @@ Zeipunkt(e)
 
 [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 ---
-# ☕
+# 🍵
 
 [15'](https://youtu.be/1gQJUjgCqrU)
 ---
@@ -362,21 +362,125 @@ git version 2.39.3 (Apple Git-146)
 ---
 # 🥗
 ---
+# 💪
+
+## Mitwirken
+
+Warum?
+--
+## Upstream & Downstream
+
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/supply-chain-funnel.png)
+
+[OSPO-101.6.1](https://digital-sustainability.github.io/module-eoss-ospo101/module6/)
+--
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/dev-without-upstreaming.png)
+--
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/dev-with-upstreaming.png)
+--
+Semantic Versioning 2.0.0
+
+```md[1|3-4|6-7|9-10|4,7,10|]
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+MAJOR version when you 
+ > make **incompatible** API changes
+
+MINOR version when you  
+ > add functionality in a backward *compatible* manner
+
+PATCH version when you  
+ > make backward *compatible* bug fixes
+```
+
+https://semver.org
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 🔢
+
+> Du aktualisierst eine Abhängigkeit von Version `1.4.2` auf `1.6.1` - worauf solltest du bei diesem Versionswechsel achten?
+---
+# 🤔
+
+## Wie?
+--
+
+# <img width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
+
+https://github.com
+
+# <img width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" />
+
+
+https://gitlab.com
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 🐙
+
+> 
+---
+# 💡
+
+## IP
+
+Intellectual Property
+--
+# DCOs & CLAs
+
+Committer, Authors, Reviewer, Maintainer, ...
+--
+# 🧑‍🎨 & 🧑‍💻
+
+### [Author & Committer](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+--
+# 📝 & 🖋️
+
+### Developer Certificate of Origin ([DCO](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin))
+
+[git commit](https://git-scm.com/docs/git-commit) `--signoff -m "My change"`
+
+### Contributor License Agreement ([CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement))
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 📝
+
+> 
+---
+# 🫖
+
+[15'](https://youtu.be/1gQJUjgCqrU)
+---
+# ⬆️
+
+## Upstream Practices
+
+(draft) Pull, Merge Requests
+--
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/setup.png)
+--
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/pull-requests.png)
+--
+typical
+
+## Contribution Flow
+
+1. Fork & Clone
+2. Pull updates from upstream, push changes to origin
+3. Create merge / pull request from fork to upstream project
+--
+<img src="https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/signal-intent.png" width="640px">
+---
 
 ---
-# ☕
+
+---
+# 🧋
 
 [15'](https://youtu.be/1gQJUjgCqrU)
 ---
 
 ---
-# ☕
-
-[15'](https://youtu.be/1gQJUjgCqrU)
----
-
----
-# ☕
+# 🍺
 
 [15'](https://youtu.be/1gQJUjgCqrU)
 ---
