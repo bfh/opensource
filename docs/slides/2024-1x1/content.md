@@ -2,7 +2,7 @@
 
 Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 
-CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2024-1x1/content.md) - `04.09.2024`
+[Source](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2024-1x1/content.md) licensed under CC-BY-4.0 - `04.09.2024`
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
@@ -71,6 +71,8 @@ CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/open-source/blob/m
 # OSPOs
 
 **O**pen **S**ource **P**rogram **O**ffices
+
+> [[...] center of competency for an organization's open source operations [...]](https://github.com/todogroup/ospodefinition.org?tab=readme-ov-file#ospo-definition)
 
 since 2021
 --
@@ -192,13 +194,17 @@ Rechtsfolge: **Schadenersatzansprüche, Strafrecht, Reputationsschäden**
 [SBOMs](https://de.wikipedia.org/wiki/Software-Lieferkette) of modern applications [show](https://www.sonatype.com/state-of-the-software-supply-chain/): **80 - 90%** (heavily) use open source components
 --
 <!-- .element: data-background-color="SeaGreen" -->
-# 🔭o 
+# 🔭
 
 > Wie behaltet ihr den Überblick zu den genutzten OSS-Artefakten in eurer Organisation?
 --
 [![](https://plus.unsplash.com/premium_photo-1661916851589-b95b2fdec64c?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://ospo-alliance.org/ggi/activities/manage_legal_compliance/#tools)
 
 Note: https://unsplash.com/de/fotos/guterbahnwagen-luftaufnahme-von-fliegenden-drohnen-von-bunten-guterzugen-auf-der-eisenbahnsortanlage-waggons-mit-waren-auf-der-eisenbahn-schwerindustrie-industrieszene-eqkP19T8_Ew
+--
+![](https://todogroup.org/img/todo-logo-on-white.svg)
+
+https://todogroup.org/resources/guides/tools-for-managing-open-source-programs/#tools-for-managing-source-code
 ---
 # 🦺
 
@@ -248,7 +254,111 @@ Zeipunkt(e)
 
 [15'](https://youtu.be/1gQJUjgCqrU)
 ---
+# Open Source Software
 
+Metrics, [Non Functional Requirements & Qualities](https://quality.arc42.org)
+--
+![](https://quality.arc42.org/images/arc42-system-qualities-overview.svg)
+
+https://quality.arc42.org/qualities/
+--
+[![](https://github.com/sindresorhus/awesome/raw/main/media/logo.svg)](https://open-source.world/awesome-opensource/#alternatives)
+--
+<img src="https://www.iamonit.de/wp-content/uploads/2019/01/96C744F7-D089-41E8-AFAE-C287FA086603.jpeg" height="600px">
+--
+<img src="https://opensource.guide/assets/images/illos/metrics.svg" width="500px"/>
+
+https://opensource.guide/metrics/
+
+https://chaoss.community/kbtopic/all-metrics/
+--
+[<img src="https://www.synopsys.com/content/dam/synopsys/sig-assets/images/Gartner_Magic_Quadrant_AST_2023-final-bg.svg" width="500px"/>](https://www.synopsys.com/software-integrity.html)
+
+https://openhub.net/p/linux/
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 🔍
+
+> Wie lauten die Top 3 genutzten (Programmier)-Sprachen im Projekt "git"?
+
+# 🔎
+
+> Wie viel Personenjahre Arbeit stecken im Projekt "GitLab"?
+---
+# 🏅
+
+## Badges
+
+dynamisch & interaktiv
+--
+![](https://www.pathfinderscoutshorley.org.uk/wp-content/uploads/badges.jpg)
+--
+## Examples
+
+- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
+- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
+- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
+- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
+- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
+- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
+- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
+--
+![](https://shields.io/img/logo.png)
+
+https://shields.io/badges
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 🏅
+
+> Generiere einen dynamischen Lizenz-Badge für dein lieblings Open-Source-Projekt.
+
+https://shields.io/badges/git-hub-license
+--
+<img src="https://www.bestpractices.dev/assets/openssf_bestpracticesbadge-bcc69832741d2cb3979607a9d713f9e8f83987653caa7b982d75ad1362cd575b.svg" width="400px"/>
+
+[![](https://www.bestpractices.dev/projects/1/badge)](https://www.bestpractices.dev/projects/1/)
+
+https://www.bestpractices.dev/de/criteria
+---
+# ▶️
+
+## Nutzen
+
+Abhängigkeiten, Automatisierung & Pakete
+--
+# 📚
+
+## libraries
+
+SBOMs (Software Bill of Materials)
+
+https://spdx.dev/use/tools/open-source-tools/
+
+SPDX®: System Package Data Exchange
+--
+# 🚀
+
+## software packages
+
+win: https://community.chocolatey.org/packages
+
+lin: https://flathub.org
+
+mac: https://brew.sh
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 🚀
+
+> Installiere dir `git` auf der Kommandozeile z.B. über den Package Manager ([win](https://community.chocolatey.org/packages/git), [lin](https://git-scm.com/download/linux), [mac](https://formulae.brew.sh/formula/git)) deiner Wahl.
+
+https://git-scm.com/downloads
+
+```
+tem1@L2T6JGJNLH ~ % git --version
+git version 2.39.3 (Apple Git-146)
+```
 ---
 # 🥗
 ---
