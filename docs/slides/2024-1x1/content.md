@@ -2,7 +2,9 @@
 
 Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 
-[Source](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2024-1x1/content.md) licensed under CC-BY-4.0 - `04.09.2024`
+`04.09.2024`
+
+[Source](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2024-1x1/content.md) licensed under CC-BY-4.0
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
@@ -15,20 +17,19 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 --
 ## 9 - 17 Uhr
 
-```md [1|3-5|7|9-11|13-15|]
+```md [1|3-5|6|8-10|12-14|]
 09.15 - 💬 Begrüssung, Kennenlernen & Einführung OSPOs
 
-**Nutzung** von quelloffenen Artefakten
+*Nutzung* von quelloffenen Artefakten
 10.15 - 🟦 1.1
 11.15 - 🟦 1.2
-
 🍲 ~ 12
 
-**Mitwirken** an Open Source Projekten
+*Mitwirken* an Open Source Projekten
 13.15 - 🟥 2.1
 14.15 - 🟥 2.2
 
-**Starten** von eigenen Projekten
+*Starten* von eigenen Projekten
 15.15 - 🟩 3.1
 16.15 - 🟩 Q&A + Abschluss
 ```
@@ -295,11 +296,15 @@ https://openhub.net/p/linux/
 --
 <!-- .element: data-background-color="SeaGreen" -->
 
-`WST-24-1x1.07`
+`WST-24-1x1.07.1`
 
 # 🔍
 
 > Wie lauten die Top 3 genutzten (Programmier)-Sprachen im Projekt "git"?
+--
+<!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.07.2`
 
 # 🔎
 
