@@ -433,7 +433,7 @@ bug & feature **reports**
 <!-- .element: data-background-color="SeaGreen" -->
 # 🐙
 
-> 
+> Habt ihr bereits Contributionen beigetragen? Auf welche seid ihr besonders "stolz"? 
 ---
 # 🌊
 
@@ -458,7 +458,7 @@ Committer, Authors, Reviewer, Maintainer, ...
 <!-- .element: data-background-color="SeaGreen" -->
 # 📝
 
-> 
+> Wer war in [diesem Commit](https://github.com/torvalds/linux/commit/e00e99ba6c6b8e5239e75cd6684a6827d93c39a2) Author bzw. Committer?
 ---
 # 🫖
 
@@ -489,7 +489,7 @@ typical
 <!-- .element: data-background-color="SeaGreen" -->
 # ⬆️
 
-> 
+> Stellt (im 2er Team) bitte 1-2 Issue(s) bzw. PRs [zum Workshop](https://github.com/bfh/opensource/blob/main/docs/slides/2024-1x1/content.md) von heute ein. 
 ---
 # ⬇️
 
@@ -538,19 +538,81 @@ Development & QA
 
 > Habt ihr bereits Projekte gestartet? Warum habt ihr das gemacht?
 ---
+# 🍱
+## preparations
 
+[OSPO-101.7.2](https://digital-sustainability.github.io/module-eoss-ospo101/module7/#section-new-project-preparations)
+--
+## Internal Preparations ✅
+
+**Executive Sponsor**: Technical and Community & Financial
+
+**Allocate Resources**
+
+**Educate** Your Workforce: Engineers & Managers
+--
+## Reviews ✅
+
+**Legal** Review
+
+**Technical** Review
+
+**Marketing** Review
+--
+## Governance and Processes ✅
+
+Governance Models
+
+Leadership
+
+Foundation or Independent
+
+Technical Processes
+--
+## Project Infrastructure ✅
+
+Development Tools
+
+Website
+
+Communication Tooling
+
+Documentation Tooling
 --
 <!-- .element: data-background-color="SeaGreen" -->
-# 
+# 🍱
 
-> 
+> Was sind eure Erfahrungen hinsichtlich des (Mehr)-Aufwands für solche Vorbereitungen?
 ---
+# 💡
+## launch & sustainment
 
+[OSPO-101.7.3](https://digital-sustainability.github.io/module-eoss-ospo101/module7/#section-successful-project-launch-and-sustainment)
+--
+# 🚀
+
+## Project Launch
+
+final code review
+
+pre-launch activities
+
+good (open source) citizenship: openness & transparency
+--
+# 🛰
+
+## Project Maintenance
+
+Build Community
+
+Designate a Community Advocate
+
+Evaluate and Adapt
 --
 <!-- .element: data-background-color="SeaGreen" -->
-# 
+# 🛰
 
-> 
+> Was sind in euren Augen "vorzeige"-Projekte, wenn es um das Thema "Sustainment" geht? Warum?
 ---
 # 🍺
 
