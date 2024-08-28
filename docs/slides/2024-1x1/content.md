@@ -55,7 +55,7 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 
 [Climbing the Open Source Ladder](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module2/README.md#climbing-the-open-source-ladder)
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module2/involvement-over-time.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module2/involvement-over-time.png)
 --
 ![](https://github.com/baloise/open-source/raw/main/docs/arc42/images/os-maturity-model.png)
 --
@@ -139,7 +139,7 @@ Einführung
   3. can be **shared and copied** at no cost
   4. can be **modified by anyone, and these improvements can be shared** publicly
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module5/questions.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module5/questions.png)
 --
 ![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO-101/module5/license-categories.png)
 --
@@ -396,13 +396,13 @@ Warum?
 --
 ## Upstream & Downstream
 
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/supply-chain-funnel.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/supply-chain-funnel.png)
 
 [OSPO-101.6.1](https://digital-sustainability.github.io/module-eoss-ospo101/module6/)
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/dev-without-upstreaming.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/dev-without-upstreaming.png)
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/dev-with-upstreaming.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/dev-with-upstreaming.png)
 --
 Semantic Versioning 2.0.0
 
@@ -507,9 +507,9 @@ Committer, Authors, Reviewer, Maintainer, ...
 
 [OSPO-101.6.3](https://digital-sustainability.github.io/module-eoss-ospo101/module6/#lesson-aligning-internal-processes)
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/setup.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/setup.png)
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/pull-requests.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/pull-requests.png)
 --
 typical
 
@@ -537,7 +537,7 @@ Community Interaction
 
 [OSPO-101.6.3](https://digital-sustainability.github.io/module-eoss-ospo101/module6/#section-upstream-development-practices)
 --
-<img src="https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/signal-intent.png" width="640px">
+<img src="https://digital-sustainability.github.io/module-eoss-ospo101/module6/signal-intent.png" width="640px">
 --
 Before You Begin
 
@@ -673,7 +673,7 @@ Evaluate and Adapt
 [model](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-introducing-open-source-business-models), [strategy](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-developing-an-open-source-strategy), [policies](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-developing-open-source-policies)
 # } PO
 --
-![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module3/ospo-structure.png)
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module3/ospo-structure.png)
 ---
 # 🇺🇸
 

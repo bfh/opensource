@@ -54,7 +54,7 @@ Trend
 
 # PUBLIC CODE!
 
-a.k.a. ["Open Source" Software](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module1/README.md#what-is-open-source-software)
+a.k.a. ["Open Source" Software](https://digital-sustainability.github.io/module-eoss-ospo101/module1/#what-is-open-source-software)
 ---
 # ☕
 
@@ -80,13 +80,13 @@ https://publiccode.eu
 
 [Interaktion 2](https://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc)
 
-- Public Code : "[Open Source](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module1/README.md#what-is-open-source-software)" ✅
+- Public Code : "[Open Source](https://digital-sustainability.github.io/module-eoss-ospo101/module1/#what-is-open-source-software)" ✅
 - [Free](https://freebeer.org/blog/label) and Open Source 
-- Software [Development](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#development-process--cadence)
+- Software [Development](https://digital-sustainability.github.io/module-eoss-ospo101/module4/#development-process--cadence)
 - Software [Licence](https://opensource.org/licenses)
 
 --
-> [...] [**released**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md#when-to-create-an-open-source-project) as Free Software [...]
+> [...] [**released**](https://digital-sustainability.github.io/module-eoss-ospo101/module7/#when-to-create-an-open-source-project) as Free Software [...]
 
 ## https://ospo101.org
 
