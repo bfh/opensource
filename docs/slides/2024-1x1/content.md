@@ -36,6 +36,9 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 🔲 ca. 45' (💡 💪 💪) + 15' ☕
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.01`
+
 # 🟩 
 
 > Wann ist der heutige Workshop für dich ein Erfolg?
@@ -57,6 +60,8 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 ![](https://github.com/baloise/open-source/raw/main/docs/arc42/images/os-maturity-model.png)
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.02`
 
 # Self-Assessment
 
@@ -107,6 +112,9 @@ https://ospo-alliance.org
 https://ospo-alliance.org/ggi/introduction/#about-the-good-governance-initiative
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.03`
+
 # 👥 
 
 > Welches "Vehikel" nutzt ihr für das Thema Open Source in Eurer Organisation?
@@ -144,6 +152,9 @@ https://xkcd.com/2347/
 [https://creativecommons.org](https://creativecommons.org/about/cclicenses/)
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.04`
+
 # ♻️ 
 
 > Wie handhabt ihr die "Attributionspflicht" in eurem [SDLC](https://de.wikipedia.org/wiki/SDLC)?
@@ -194,6 +205,9 @@ Rechtsfolge: **Schadenersatzansprüche, Strafrecht, Reputationsschäden**
 [SBOMs](https://de.wikipedia.org/wiki/Software-Lieferkette) of modern applications [show](https://www.sonatype.com/state-of-the-software-supply-chain/): **80 - 90%** (heavily) use open source components
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.05`
+
 # 🔭
 
 > Wie behaltet ihr den Überblick zu den genutzten OSS-Artefakten in eurer Organisation?
@@ -240,6 +254,9 @@ Zeipunkt(e)
 ## 2. "Modification"
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.06`
+
 # ⚖️ 
 
 > Nutzt ihr bereits Prozesse / Richtlinien zur Einhaltung der Lizenzpflichten? Wenn ja, welche?
@@ -277,6 +294,9 @@ https://chaoss.community/kbtopic/all-metrics/
 https://openhub.net/p/linux/
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.07`
+
 # 🔍
 
 > Wie lauten die Top 3 genutzten (Programmier)-Sprachen im Projekt "git"?
@@ -310,6 +330,9 @@ dynamisch & interaktiv
 https://shields.io/badges
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.08`
+
 # 🏅
 
 > Generiere einen dynamischen Lizenz-Badge für dein lieblings Open-Source-Projekt.
@@ -349,6 +372,9 @@ lin: https://flathub.org
 mac: https://brew.sh
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.09`
+
 # 📦
 
 > Installiere dir `git` auf der Kommandozeile z.B. über den Package Manager ([win](https://community.chocolatey.org/packages/git), [lin](https://git-scm.com/download/linux), [mac](https://formulae.brew.sh/formula/git)) deiner Wahl.
@@ -396,6 +422,9 @@ PATCH version when you
 https://semver.org
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.10`
+
 # 🔢
 
 > Du aktualisierst eine Abhängigkeit von Version `1.4.2` auf `1.6.1` - worauf solltest du bei diesem Versionswechsel achten?
@@ -431,6 +460,9 @@ bug & feature **reports**
 ![](https://digital-sustainability.github.io/module-eoss-ospo101/module4/open-source-development-model.png)
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.11`
+
 # 🐙
 
 > Habt ihr bereits Contributionen beigetragen? Auf welche seid ihr besonders "stolz"? 
@@ -456,6 +488,9 @@ Committer, Authors, Reviewer, Maintainer, ...
 ### Contributor License Agreement ([CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement))
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.12`
+
 # 📝
 
 > Wer war in [diesem Commit](https://github.com/torvalds/linux/commit/e00e99ba6c6b8e5239e75cd6684a6827d93c39a2) Author bzw. Committer?
@@ -487,6 +522,9 @@ typical
 ![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/internal-mirror.png)
 ---
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.13`
+
 # ⬆️
 
 > Stellt (im 2er Team) bitte 1-2 Issue(s) bzw. PRs [zum Workshop](https://github.com/bfh/opensource/blob/main/docs/slides/2024-1x1/content.md) von heute ein. 
@@ -534,6 +572,9 @@ Development & QA
 ![](https://digital-sustainability.github.io/module-eoss-ospo101/module7/good-reasons-to-opensource.png)
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.14`
+
 # 🚀
 
 > Habt ihr bereits Projekte gestartet? Warum habt ihr das gemacht?
@@ -580,6 +621,9 @@ Communication Tooling
 Documentation Tooling
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.15`
+
 # 🍱
 
 > Was sind eure Erfahrungen hinsichtlich des (Mehr)-Aufwands für solche Vorbereitungen?
@@ -610,6 +654,9 @@ Designate a Community Advocate
 Evaluate and Adapt
 --
 <!-- .element: data-background-color="SeaGreen" -->
+
+`WST-24-1x1.16`
+
 # 🛰
 
 > Was sind in euren Augen "vorzeige"-Projekte, wenn es um das Thema "Sustainment" geht? Warum?
@@ -627,6 +674,28 @@ Evaluate and Adapt
 # } PO
 --
 ![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module3/ospo-structure.png)
+---
+# 🇺🇸
+
+[![](https://todogroup.org/img/todo-logo-on-white.svg)](https://todogroup.org)
+
+https://todogroup.org
+
+[Case Studies](https://todogroup.org/resources/case-studies/)
+--
+<iframe width="1024" height="576" src="https://landscape.todogroup.org/embed/embed.html?key=todo-group-member--general&headers=false&category-header=false&category-in-subcategory=false&title-uppercase=false&title-alignment=left&title-font-family=sans-serif&title-font-size=13&style=shadowed&bg-color=%235aa100&fg-color=%23ffffff&item-name=false&size=md&items-alignment=left" frameborder="0" allowfullscreen></iframe>
+
+https://landscape.todogroup.org
+--
+# 🇪🇺
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/1024px-Eclipse_Foundation_Logo.svg.png)](https://www.eclipse.org/org/workinggroups/explore.php)
+--
+# 🇨🇭
+
+https://ossbenchmark.com
+
+https://oss-studie.ch
 ---
 ![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fwww.menti.com%2Falc5ngc3c4nz&qzone=1&margin=0&size=400x400&ecc=L)
 
