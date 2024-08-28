@@ -338,7 +338,7 @@ https://spdx.dev/use/tools/open-source-tools/
 
 SPDX®: System Package Data Exchange
 --
-# 🚀
+# 📦
 
 ## software packages
 
@@ -349,7 +349,7 @@ lin: https://flathub.org
 mac: https://brew.sh
 --
 <!-- .element: data-background-color="SeaGreen" -->
-# 🚀
+# 📦
 
 > Installiere dir `git` auf der Kommandozeile z.B. über den Package Manager ([win](https://community.chocolatey.org/packages/git), [lin](https://git-scm.com/download/linux), [mac](https://formulae.brew.sh/formula/git)) deiner Wahl.
 
@@ -414,16 +414,30 @@ https://github.com
 
 https://gitlab.com
 --
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module4/what-is-a-contributor.png)
+--
+bug & feature **reports**
+
+**additional information** e.g. reproducing an issue
+
+**source code** fixes
+
+**documentation**
+
+**examples**
+
+**...**
+--
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module4/open-source-development-model.png)
+--
 <!-- .element: data-background-color="SeaGreen" -->
 # 🐙
 
 > 
 ---
-# 💡
+# 🌊
 
-## IP
-
-Intellectual Property
+## Intellectual Property
 --
 # DCOs & CLAs
 
@@ -455,6 +469,8 @@ Committer, Authors, Reviewer, Maintainer, ...
 ## Upstream Practices
 
 (draft) Pull, Merge Requests
+
+[OSPO-101.6.3](https://digital-sustainability.github.io/module-eoss-ospo101/module6/#lesson-aligning-internal-processes)
 --
 ![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/setup.png)
 --
@@ -468,19 +484,94 @@ typical
 2. Pull updates from upstream, push changes to origin
 3. Create merge / pull request from fork to upstream project
 --
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module6/internal-mirror.png)
+---
+<!-- .element: data-background-color="SeaGreen" -->
+# ⬆️
+
+> 
+---
+# ⬇️
+
+## Upstream Practices
+
+Community Interaction
+
+[OSPO-101.6.3](https://digital-sustainability.github.io/module-eoss-ospo101/module6/#section-upstream-development-practices)
+--
 <img src="https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module6/signal-intent.png" width="640px">
----
+--
+Before You Begin
 
----
+Signal Intent
 
+Discussion and Rationale
+
+Acceptance
+
+Tracking Proposed Contribution
+
+Prioritization
+
+Release Planning
+
+Development & QA
 ---
 # 🧋
 
 [15'](https://youtu.be/1gQJUjgCqrU)
 ---
+# 🚀
 
+## Starten
+
+[OSPO-101.7](https://digital-sustainability.github.io/module-eoss-ospo101/module7/)
+--
+![](https://github.com/baloise/open-source/raw/main/docs/arc42/images/os-maturity-model.png)
+--
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module7/questions-to-ask.png)
+--
+![](https://digital-sustainability.github.io/module-eoss-ospo101/module7/good-reasons-to-opensource.png)
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 🚀
+
+> Habt ihr bereits Projekte gestartet? Warum habt ihr das gemacht?
+---
+
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 
+
+> 
+---
+
+--
+<!-- .element: data-background-color="SeaGreen" -->
+# 
+
+> 
 ---
 # 🍺
 
 [15'](https://youtu.be/1gQJUjgCqrU)
 ---
+![](https://digital-sustainability.github.io/module-eoss-ospo101/ospo101.svg)
+
+[OSPO-101.2](https://digital-sustainability.github.io/module-eoss-ospo101/module2/)
+--
+# OS { 
+[model](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-introducing-open-source-business-models), [strategy](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-developing-an-open-source-strategy), [policies](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-developing-open-source-policies)
+# } PO
+--
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module3/ospo-structure.png)
+---
+![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fwww.menti.com%2Falc5ngc3c4nz&qzone=1&margin=0&size=400x400&ecc=L)
+
+## Feedback
+--
+# Danke!
+
+## Q&A
+---
+# 🥊
