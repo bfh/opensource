@@ -15,6 +15,13 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 # 🧱
 ## Organisatorisches
 --
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
+--
 ## 9 - 17 Uhr
 
 ```md [1|3-5|6|8-10|12-14|]
@@ -125,6 +132,13 @@ https://ospo-alliance.org/ggi/introduction/#about-the-good-governance-initiative
 # ☕
 
 [15'](https://youtu.be/1gQJUjgCqrU)
+--
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
 ---
 # Open Source (Software)
 Einführung
@@ -271,6 +285,13 @@ Zeipunkt(e)
 # 🍵
 
 [15'](https://youtu.be/1gQJUjgCqrU)
+--
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
 ---
 # Open Source Software
 
@@ -392,6 +413,13 @@ git version 2.39.3 (Apple Git-146)
 ```
 ---
 # 🥗
+--
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
 ---
 # 💪
 
@@ -503,6 +531,13 @@ Committer, Authors, Reviewer, Maintainer, ...
 # 🫖
 
 [15'](https://youtu.be/1gQJUjgCqrU)
+--
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
 ---
 # ⬆️
 
@@ -563,6 +598,13 @@ Development & QA
 # 🧋
 
 [15'](https://youtu.be/1gQJUjgCqrU)
+--
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
 ---
 # 🚀
 
@@ -669,6 +711,13 @@ Evaluate and Adapt
 # 🍺
 
 [15'](https://youtu.be/1gQJUjgCqrU)
+--
+<!-- .element: data-background-color="LightSkyBlue" -->
+# 🐟
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fetherpad.wikimedia.org%2Fp%2Fbfh-wst-24-1x1-fish&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L)
+
+> Den Fisch auf den [Tisch](https://etherpad.wikimedia.org/p/bfh-wst-24-1x1-fish)!
 ---
 ![](https://digital-sustainability.github.io/module-eoss-ospo101/ospo101.svg)
 
