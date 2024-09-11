@@ -1,8 +1,10 @@
 # Open Source
 
-«Alternativen für Ihren Deinen Alltag»
+«Alternativen für ~~Ihren~~ Deinen Alltag»
 
-`04.09.2024`
+<hr>
+
+**BFH [Micro Course](https://www.bfh.ch/wirtschaft/de/weiterbildung/kurse/micro-course-open-source-alternativen-fuer-ihren-alltag/)** - `24.09.2024`
 
 [Source](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2024-mc-os/content.md) licensed under CC-BY-4.0
 --
