@@ -100,10 +100,14 @@ https://bbb.ch-open.ch
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BigBlueButton_logo.svg/1024px-BigBlueButton_logo.svg.png)
 --
+
+--
 ## Features
 
 ---
 # 0️⃣ 2️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/9/9f/IconaJitsi_square.png)
 --
 
 --
@@ -111,11 +115,15 @@ https://bbb.ch-open.ch
 ---
 # 0️⃣ 3️⃣
 --
+![](https://framadate.org/abc/img/screens/1.png)
+--
 
 --
 
 ---
 # 0️⃣ 4️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png)
 --
 
 --
@@ -123,11 +131,15 @@ https://bbb.ch-open.ch
 ---
 # 0️⃣ 5️⃣
 --
+![](https://etherpad.org/assets/brand-ruuyTPHN.svg)
+--
 
 --
 
 ---
 # 0️⃣ 6️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1024px-Nextcloud_Logo.svg.png)
 --
 
 --
@@ -135,11 +147,15 @@ https://bbb.ch-open.ch
 ---
 # 0️⃣ 7️⃣
 --
+![](https://github.com/workadventure/workadventure/raw/develop/README-LOGO.svg)
+--
 
 --
 
 ---
 # 0️⃣ 8️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Signal_logo_%282020%29.svg/1024px-Signal_logo_%282020%29.svg.png)
 --
 
 --
@@ -147,11 +163,15 @@ https://bbb.ch-open.ch
 ---
 # 0️⃣ 9️⃣
 --
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Element_textlogo.svg/1024px-Element_textlogo.svg.png)
+--
 
 --
 
 ---
 # 1️⃣ 0️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/512px-Firefox_logo%2C_2019.svg.png)
 --
 
 --
@@ -163,11 +183,15 @@ https://bbb.ch-open.ch
 ---
 # 1️⃣ 1️⃣
 --
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chocolatey_icon.svg/512px-Chocolatey_icon.svg.png)
+--
 
 --
 
 ---
 # 1️⃣ 2️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_Logo_Flat.svg/1024px-LibreOffice_Logo_Flat.svg.png)
 --
 
 --
@@ -175,17 +199,27 @@ https://bbb.ch-open.ch
 ---
 # 1️⃣ 3️⃣
 --
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thunderbird_2023_icon.png/512px-Thunderbird_2023_icon.png)
+--
 
 --
 
 ---
 # 1️⃣ 4️⃣
 --
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/512px-The_GIMP_icon_-_gnome.svg.png)
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/512px-Inkscape_Logo.svg.png)
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/512px-Calligrakrita-base.svg.png)
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png)
 --
 
 ---
 # 1️⃣ 5️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/d/d1/ShareX_Logo.png)
 --
 
 --
@@ -193,11 +227,15 @@ https://bbb.ch-open.ch
 ---
 # 1️⃣ 6️⃣
 --
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/512px-KeePassXC.svg.png)
+--
 
 --
 
 ---
 # 1️⃣ 7️⃣
+--
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/512px-VLC_Icon.svg.png)
 --
 
 --
@@ -205,17 +243,23 @@ https://bbb.ch-open.ch
 ---
 # 1️⃣ 8️⃣
 --
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/OBS_Studio_logo.png/512px-OBS_Studio_logo.png)
+--
 
 --
 
 ---
 # 1️⃣ 9️⃣
 --
+![]()
+--
 
 --
 
 ---
 # 2️⃣ 0️⃣
+--
+![](https://i.ytimg.com/vi/nS5z_A2MVuY/sddefault.jpg)
 --
 
 --
