@@ -70,13 +70,13 @@ Einführung
 
 https://xkcd.com/2347/
 ---
-# 3
+# 2
 
 Begriffe
 --
 (Open Source) Software **Projekt**
 
-(Open Source) Software **Produkt**
+<hr>
 
 (Software) **Instanz**
 --
@@ -88,9 +88,7 @@ Beispiel
 
 https://github.com/bigbluebutton/bigbluebutton
 
-### Produkt
-
-https://www.ch-open.ch/bigbluebutton/angebot-bigbluebutton-server/
+<hr>
 
 ### Instanz
 
