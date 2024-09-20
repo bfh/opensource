@@ -49,6 +49,11 @@
 
 💪 Beispiele* direkt und live [...] ausprobieren
 ```
+--
+<img src="https://images.unsplash.com/photo-1531120364508-a6b656c3e78d?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="700px">
+
+
+<small>"Verschiedenfarbige Blumen auf braunem Holz" by [Niklas Ohlrogge](https://unsplash.com/de/fotos/verschiedenfarbige-blumen-auf-braunem-holz-74QmIJDTD-c)</small>
 ---
 # Open Source (Software)
 Einführung
@@ -105,6 +110,11 @@ https://bbb.ch-open.ch
 # Alternativen 1
 
 zentrale Instanzen
+--
+<img src="https://images.unsplash.com/photo-1693083551874-0fd1dd21dd3e?q=80&w=3085&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400px">
+
+
+<small>Botanical Garden, Zollikerstrasse, Zürich, Switzerland by [Maryna Yanul](https://unsplash.com/de/fotos/ein-teich-mit-vielen-seerosen-aUqFK_VfMAU)</small>
 ---
 # 0️⃣ 1️⃣
 --
@@ -267,6 +277,11 @@ https://www.mozilla.org/de/firefox/
 # Alternativen 2
 
 lokale Instanzen
+--
+<img src="https://images.unsplash.com/photo-1579591040020-5704f25f2473?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400px">
+
+
+<small>"Rosa Rosen auf weisser Wand" by [Annie Spratt](https://unsplash.com/de/fotos/rosa-rosen-auf-weisser-wand-Tt6cKTH0uRw)</small>
 ---
 # 1️⃣ 1️⃣
 --
