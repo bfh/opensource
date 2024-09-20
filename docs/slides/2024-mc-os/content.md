@@ -69,6 +69,10 @@ Einführung
 <img src="https://imgs.xkcd.com/comics/dependency_2x.png" height="500px">
 
 https://xkcd.com/2347/
+--
+<img src="https://oss-studie.ch/assets/images/OSS2024.png" width="400px">
+
+https://oss-studie.ch
 ---
 # 2
 
@@ -79,6 +83,10 @@ Begriffe
 <hr>
 
 (Software) **Instanz**
+
+**(de)zentral** - meist "im Internet"
+
+**lokal** - "auf dem eigenen Gerät"
 --
 # 🦚
 
@@ -94,180 +102,393 @@ https://github.com/bigbluebutton/bigbluebutton
 
 https://bbb.ch-open.ch
 ---
+# Alternativen 1
+
+zentrale Instanzen
+---
 # 0️⃣ 1️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BigBlueButton_logo.svg/1024px-BigBlueButton_logo.svg.png)
 --
-
---
 ## Features
 
+--
+# 🚀
+
+https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/dossiers/bbb/technik/
+
+<hr>
+
+https://www.senfcall.de
+
+https://bbb.ch-open.ch
 ---
 # 0️⃣ 2️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9f/IconaJitsi_square.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://jitsi.org
 ---
 # 0️⃣ 3️⃣
 --
 ![](https://framadate.org/abc/img/screens/1.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://nuudel.digitalcourage.de
 ---
 # 0️⃣ 4️⃣
 --
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png)
+![](https://etherpad.org/assets/brand-ruuyTPHN.svg)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://etherpad.wikimedia.org
 ---
 # 0️⃣ 5️⃣
 --
-![](https://etherpad.org/assets/brand-ruuyTPHN.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://app.diagrams.net
 ---
 # 0️⃣ 6️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1024px-Nextcloud_Logo.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://nextcloud.com/de/instant-trial/
 ---
 # 0️⃣ 7️⃣
 --
 ![](https://github.com/workadventure/workadventure/raw/develop/README-LOGO.svg)
 --
+## Features
 
 --
+# 🚀
+
+
+
+<hr>
+
+https://workadventu.re
+
 
 ---
 # 0️⃣ 8️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Signal_logo_%282020%29.svg/1024px-Signal_logo_%282020%29.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://signal.org
 ---
 # 0️⃣ 9️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Element_textlogo.svg/1024px-Element_textlogo.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://matrix.org
 ---
 # 1️⃣ 0️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/512px-Firefox_logo%2C_2019.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://www.mozilla.org/de/firefox/
 ---
 # ☕
 
 ##  ~ 10'
 ---
+# Alternativen 2
+
+lokale Instanzen
+---
 # 1️⃣ 1️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chocolatey_icon.svg/512px-Chocolatey_icon.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://chocolatey.org/install
 ---
 # 1️⃣ 2️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_Logo_Flat.svg/1024px-LibreOffice_Logo_Flat.svg.png)
 --
+![](https://de.libreoffice.org/themes/libreofficenew/img/discover_.jpg)
 
+Textverarbeitung: **Writer**
+
+Tabellenkalkulation: **Calc**
+
+Präsentationsprogramm: **Impress**
+
+Zeichenprogramm: **Draw**
+
+Datenbankverwaltung: **Base**
 --
+# 🚀
 
+
+
+<hr>
+
+https://www.libreoffice.org/download/download-libreoffice/
 ---
 # 1️⃣ 3️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thunderbird_2023_icon.png/512px-Thunderbird_2023_icon.png)
 --
+## Features
+
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://www.thunderbird.net
 ---
 # 1️⃣ 4️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/512px-The_GIMP_icon_-_gnome.svg.png)
 --
+## Features
+
+--
+# 🚀
+
+
+
+<hr>
+
+https://www.gimp.org
+--
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/512px-Inkscape_Logo.svg.png)
+--
+## Features
+
+--
+# 🚀
+
+
+
+<hr>
+
+https://www.inkscape.org
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/512px-Calligrakrita-base.svg.png)
 --
+## Features
+
+--
+# 🚀
+
+
+
+<hr>
+
+http://krita.org
+--
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png)
 --
+## Features
 
+--
+# 🚀
+
+
+
+<hr>
+
+https://www.darktable.org
 ---
 # 1️⃣ 5️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d1/ShareX_Logo.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://getsharex.com
 ---
 # 1️⃣ 6️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/512px-KeePassXC.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://keepassxc.org
 ---
 # 1️⃣ 7️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/512px-VLC_Icon.svg.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://www.videolan.org
 ---
 # 1️⃣ 8️⃣
 --
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/OBS_Studio_logo.png/512px-OBS_Studio_logo.png)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://obsproject.com
 ---
 # 1️⃣ 9️⃣
 --
-![]()
+![](https://news.macgasm.net/wp-content/uploads/2010/01/terminal.jpg)
 --
+## Features
 
 --
+# 🚀
 
----
-# 2️⃣ 0️⃣
+
+
+<hr>
+
+
 --
 ![](https://i.ytimg.com/vi/nS5z_A2MVuY/sddefault.jpg)
 --
+## Features
 
 --
+# 🚀
 
+
+
+<hr>
+
+https://github.com/wireservice/csvkit
+---
+# 2️⃣ 0️⃣
+--
+![](https://user-images.githubusercontent.com/1777143/153183461-03a0e0b4-239a-4c7b-a49d-a285be828f09.png)
+--
+## Features
+
+--
+# 🚀
+
+https://www.poinz.app
 ---
 # 🍎
 
 ##  ~ 5'
 ---
 # Abschluss
-
-Q&A
 --
+
+![](https://malcolmsmusings.org/wp-content/uploads/2024/04/image-7.png)
+
+--
+
+https://bfh.github.io/awesome-opensource-projects/
+
+--
+
+## Q&A
