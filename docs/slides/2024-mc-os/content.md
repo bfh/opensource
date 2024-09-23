@@ -122,6 +122,11 @@ zentrale Instanzen
 --
 ## Features
 
+Videos abspielen
+
+Abstimmung(en)
+
+Recording + Chapter
 --
 # 🚀
 
@@ -139,6 +144,12 @@ https://bbb.ch-open.ch
 --
 ## Features
 
+leichtgewichtig & direkt
+
+Live Chat
+
+Screensharing
+
 --
 # 🚀
 
@@ -153,6 +164,12 @@ https://jitsi.org
 ![](https://framadate.org/abc/img/screens/1.png)
 --
 ## Features
+
+Markdown und Media-Integration
+
+Termine & allgemeine Umfragen
+
+Constraints z.B. max. Anzahl Rückmeldungen
 
 --
 # 🚀
@@ -169,9 +186,13 @@ https://nuudel.digitalcourage.de
 --
 ## Features
 
+"weisses Blatt Papier"
+
+Multi-User
+
+Change-Tracking
 --
 # 🚀
-
 
 
 <hr>
@@ -184,9 +205,13 @@ https://etherpad.wikimedia.org
 --
 ## Features
 
+Quelle(n) einbetten zB PNG
+
+UML, ER, Ablaufdiagramme
+
+Snap-To Grid, Theming, ...
 --
 # 🚀
-
 
 
 <hr>
@@ -199,6 +224,11 @@ https://app.diagrams.net
 --
 ## Features
 
+All-In-One Anlaufpunkt
+
+div. Integrationspunkte
+
+online Kollaboration
 --
 # 🚀
 
@@ -214,6 +244,11 @@ https://nextcloud.com/de/instant-trial/
 --
 ## Features
 
+unterhaltsam
+
+Community-Building
+
+Video-Integration bei Annäherung
 --
 # 🚀
 
@@ -231,6 +266,11 @@ https://workadventu.re
 --
 ## Features
 
+Chats und Anrufe end-2-end verschlüsselt - Verschlüsselungs-Code ist online für jeden einsehbar
+
+Daten werden nicht zentral gespeichert
+
+sehr grosser Funktionsumfang und vergleichbar zu den Platzhirschen
 --
 # 🚀
 
@@ -246,6 +286,13 @@ https://signal.org
 --
 ## Features
 
+förderierte Architektur ala eMail
+
+Bridges und Integrationen: Jitsi zB für Videocalls
+
+Spaces, Sub-Spaces, Räume
+
+umfangreiches Rollen- & Rechtemanagament
 --
 # 🚀
 
@@ -261,6 +308,11 @@ https://matrix.org
 --
 ## Features
 
+datensparsam
+
+viele Add-Ons
+
+sehr guter PDF Viewer
 --
 # 🚀
 
@@ -289,6 +341,11 @@ lokale Instanzen
 --
 ## Features
 
+Versionsupgrades automatisiert
+
+einheitliches Provisionieren ganzer PC Farmen
+
+starke Community
 --
 # 🚀
 
@@ -328,7 +385,11 @@ https://www.libreoffice.org/download/download-libreoffice/
 --
 ## Features
 
+Integration zu Kalender, Kontakte, Chat, ...
 
+Datensparsam, Fokus auf das Wesentliche
+
+viele Add-Ons
 --
 # 🚀
 
@@ -343,6 +404,8 @@ https://www.thunderbird.net
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/512px-The_GIMP_icon_-_gnome.svg.png)
 --
 ## Features
+
+
 
 --
 # 🚀
