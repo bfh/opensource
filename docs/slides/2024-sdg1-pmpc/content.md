@@ -8,10 +8,9 @@ HS 2024 - Public Sector Trends am [IPST](https://www.bfh.ch/de/forschung/forschu
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
-## [Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) / [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/)
+[Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
-Executive Director @ [CH Open](https://www.ch-open.ch)
-
+[![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")](https://www.eclipse.org/projects/handbook/)
 --
 # BFH
 
@@ -27,13 +26,21 @@ Titel & **Trend erklären können**
 
 **grundlegende Terminologie** kennenlernen
 
-**Fragen** "aufwerfen" & erste **Antworten** geben
+**Praxisbeispiel(e)** aus Deutschland & Fragestellungen
 --
 # 🧱
-### 45: "Public Code" als Trend + ~ 10' ☕
-### 45: Grundlagen + ~ 10' ☕
-### 45: [TPS](https://www.methodenkartei.uni-oldenburg.de/methode/think-pair-share/) - Fragensammlung + ~ 10' ☕
-### 40: AMA – "Ask me anything*"
+```md [1-2|4-5|7-8|10|]
+8.15 - 9.00: 💬 Einführung "Public Code" als Trend
+☕ ~ 5'
+
+9.05 - 9.50: Grundlagen
+☕ ~ 10'
+
+10.00 - 10.45: Interaktion
+🍎 ~ 5'
+
+10.55 - 11.40: Praxisbeispiel
+```
 --
 # ❓
 http://etherpad.wikimedia.org/p/bfh-ch-module-sdg1-pmpc
@@ -58,9 +65,15 @@ a.k.a. ["Open Source" Software](https://digital-sustainability.github.io/module-
 ---
 # ☕
 
-[10'](https://youtu.be/DcvtwlM1aIE)
+[5'](https://youtu.be/MDk6V-B4Qhw)
 ---
 ![](https://luki.org/wp-content/uploads/2019/05/pmpc_logo_horizontal.jpg)
+--
+[![Public Money? Public Code! (Deutsch) - Free Software Foundation Europe](https://img.youtube.com/vi/_s9_rRLlmEA/0.jpg)](https://youtu.be/_s9_rRLlmEA)
+
+## Public Money? Public Code!
+
+Free Software Foundation Europe
 --
 # 🇪🇺
 ```md [|1-2|4-5|6|7-9]
@@ -94,15 +107,19 @@ Module 1 - 7
 
 # Ziel 🎯 : Champion
 
-https://publiccode.eu/#arguments
+https://publiccode.eu/de/#arguments
 --
 ![](https://baloise.github.io/open-source/docs/arc42/images/os-maturity-model.png)
 --
 # 🇨🇭
 
-> [...] Grundlagen für die **gebührenfreie Lizenzweitergabe von Software** (Open Source Software), für die **Veröffentlichung von Daten der Verwaltung zur freien Nutzung** (Open Government Data) [...]
+# [EMBAG](https://www.fedlex.admin.ch/eli/fga/2023/787/de)
 
-[Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-87454.html)
+Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben
+--
+## Art. 9 Open Source Software
+
+> [...] Bundesbehörden **legen den Quellcode von Software offen**, die sie zur Erfüllung ihrer Aufgaben entwickeln oder entwickeln lassen [...]
 --
 [![](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2466&q=80)](https://unsplash.com/photos/IUY_3DvM__w)
 --
@@ -114,9 +131,9 @@ https://github.com/torvalds/linux
 
 ___
 
-#### 2 (Knowledge-) Knowledge-Base
+#### 2 [openDesk](https://opendesk.eu)
 
-https://github.com/sindresorhus/awesome
+https://gitlab.opencode.de/bmi/opendesk/info
 
 ___
 
@@ -134,7 +151,6 @@ https://github.com/inosca/ebau
 # Fragensammlung
 
 Top 10 Fragen "zum Trend"
-
 ___
 
 **T**hink (10') - 2er **P**air (15') - **S**hare 8 x 2' (16')...
@@ -145,13 +161,14 @@ and **Vote** (1')!
 
 ### 1
 https://github.com/torvalds/linux
-### 2
-https://github.com/sindresorhus/awesome
-### 3
+
+### 2 - https://opendesk.eu
+https://gitlab.opencode.de/bmi/opendesk/info
+
+### 3 - https://inosca.ch
 https://github.com/inosca/ebau
 
 And note question(s) for yourself!
-
 --
 ## Pair - [⏲️](https://youtu.be/1gQJUjgCqrU)
 
@@ -163,11 +180,15 @@ And note question(s) for yourself!
 1. im Pair & Plenum
 2. Deduplicate & Merge 👨‍🏫
 3. Vote: 👍 👍 👍
+--
+# Ask me anything
+
+Antwort ca. 1' pro Frage inkl. Link
 ---
 # ☕
 
-[10'](https://youtu.be/DcvtwlM1aIE)
+[5'](https://youtu.be/MDk6V-B4Qhw)
 ---
-# Ask me anything
+# Praxisbeispiel(e)
 
-Antwort ca. 4' pro Frage inkl. Link
+[Clarisse Schroeder](https://www.linkedin.com/in/clarisseschroeder/)
