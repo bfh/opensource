@@ -1,6 +1,6 @@
 # Command to start on workspace startup (optional)
 tasks:
-  - init: cd docs/slides/2025-1x1 && git clone https://github.com/bfh/reveal.js.git && cp -R content/* index.html reveal.js/ && cd reveal.js && npm install
+  - init: cd docs/slides/2025-1x1 && git clone https://github.com/bfh/reveal.js.git && cp -R content index.html reveal.js/ && cd reveal.js && npm install
     command: npm start
 # Ports to expose on workspace startup (optional)
 ports:
