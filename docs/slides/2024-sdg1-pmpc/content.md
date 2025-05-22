@@ -5,6 +5,10 @@
 HS 2024 - Public Sector Trends am [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/)
 
 [CC-BY-4.0](https://github.com/bfh/opensource/blob/main/LICENSE) | [Quelle](https://github.com/bfh/open-source/blob/main/docs/slides/2024-sdg1-pmpc/content.md)
+
+<hr>
+
+`17.10.2024 - 8:15 >> 11:40`
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 

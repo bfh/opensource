@@ -1,5 +1,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg.png)](https://commons.wikimedia.org/wiki/File:Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg)
 
+[![Open IDE in Webbrowser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/bfh/opensource/tree/2025-1x1)
+
 # Open Source
 
 BFH [Open Source](https://bfh.ch/opensource) [Community of Practice](https://scaledagileframework.com/communities-of-practice/) is part of the strategic field of [Humane Digital Transformation](https://www.bfh.ch/en/strategic-thematic-fields/digital-transformation/) @ [Bern University of Applied Sciences | BFH](https://www.bfh.ch/en/) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
