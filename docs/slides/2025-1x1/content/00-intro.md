@@ -7,6 +7,28 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 
 [Source](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2025-1x1/content.md) licensed under CC-BY-4.0
 --
+### Miro
+--
+### Erfahrungen
+--
+### Markus
+--
+### Erfahrungen
+---
+## Organisatorisches
+--
+### Q&A
+--
+### Tageslayout
+--
+### Einstiegsfrage
+--
+### Vegas
+--
+### details
+---
+## Culture & Strategy
+--
 ### details
 --
 ### details
@@ -17,7 +39,7 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 --
 ### details
 ---
-## topic 0.2
+## Maturitätsmodell & Standortbestimmung
 --
 ### details
 --
@@ -29,14 +51,3 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 --
 ### details
 ---
-## topic 0.3
---
-### details
---
-### details
---
-### details
---
-### details
---
-### details

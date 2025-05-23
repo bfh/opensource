@@ -1,7 +1,7 @@
 # Contribute
 Miro
 ---
-## topic 2.1
+## Warum?
 --
 ### details
 --
@@ -13,7 +13,7 @@ Miro
 --
 ### details
 ---
-## topic 2.2
+## Was?
 --
 ### details
 --
@@ -25,7 +25,7 @@ Miro
 --
 ### details
 ---
-## topic 2.3
+## Wie?
 --
 ### details
 --

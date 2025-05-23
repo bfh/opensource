@@ -1,7 +1,7 @@
 # Use
 Markus
 ---
-## topic 1.1
+## OSS Basics
 --
 ### details
 --
@@ -13,7 +13,7 @@ Markus
 --
 ### details
 ---
-## topic 1.2
+## Lizenz
 --
 ### details
 --
@@ -25,11 +25,13 @@ Markus
 --
 ### details
 ---
-## topic 1.3
+## Compliance
+ISOs / Gesetze - CRA / ...
 --
-### details
+### SBOMs
 --
-### details
+### Risiken
+Security
 --
 ### details
 --
