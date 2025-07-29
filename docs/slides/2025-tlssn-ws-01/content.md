@@ -19,17 +19,20 @@ Open Source Alternativen zu **Jira und Confluence**
 ---
 ## 🧑‍💻 .. 🤔 .. ⭐
 
-```md [1|3-6|8|10-12|]
+```md [1|3-6|7|8-9|11|13-15|]
 Einleitung & Rahmenbedingungen (~15')
 
-Teil 1 (~2h)
+Teil 1 (~2.5h)
 - Jira & Confluence
 - Alternativen inkl. Einordnung & Empfehlung(en)
+  - 3 x BoB 1 + 2
+  ☕ (~15')
+  - 3 x BoS
 - Austausch & Diskussion inkl. Scope der Arbeitspakete
 
 ☕ (~15')
 
-Teil 2 (~1.5h)
+Teil 2 (~1h)
 - Scope der Anforderungsanalyse & Use Cases
 - Wrap-Up & weiteres Vorgehen
 ```
@@ -105,25 +108,24 @@ Open Source
 
 https://alternativeto.net/software/jira/?license=opensource&sort=likes
 
+https://openalternative.co/?q=jira
+
 https://www.opensourcealternative.to/?searchTerm=jira
 
 https://opensource.builders/tool/jira
 --
-1️⃣ Plane, 2️⃣ Wekan, 3️⃣ OpenProject
+1️⃣ Plane, 2️⃣ Huly, 3️⃣ Wekan
 
 <hr>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mattermost-community/focalboard) Focalboard (currently not maintained)
+| weitere Projekte | ⭐ |
+| -: | :-------------------------- |
+| Focalboard (currently not maintained) | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost-community/focalboard) |
+| **OpenProject (BoS)** | ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject) |
+| Redmine | ![GitHub Repo stars](https://img.shields.io/github/stars/redmine/redmine) |
+| **Gitlab (BoS)** | ![GitLab stars](https://img.shields.io/gitlab/stars/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com&style=social) |
+| Leantime | ![GitHub Repo stars](https://img.shields.io/github/stars/leantime/leantime) |
 
-![GitHub Repo stars](https://img.shields.io/github/stars/redmine/redmine) Redmine
-
-Gitlab (BoS)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Enalean/tuleap) Tuleap
-
-![GitHub Repo stars](https://img.shields.io/github/stars/taigaio/taiga-back) Taiga
-
-![GitHub Repo stars](https://img.shields.io/github/stars/edgewall/trac) Trac
 ---
 # BoB 1.1
 
@@ -154,6 +156,29 @@ https://www.newverveconsulting.com/blog/entry/jira-vs-plane-which-system-is-righ
 ---
 # BoB 1.2
 
+Huly
+
+![GitHub Repo stars](https://img.shields.io/github/stars/hcengineering/platform)
+--
+[![]()]()
+
+https://huly.io
+--
+
+--
+## infos
+
+<a href="https://openhub.net/p/huly" data-preview-link>openhub.net</a>
+--
+| SWOT | Qualität(en) & Quantität(en) |
+| :- | :--------------------------: |
+| 💪 |                              |
+| 🤕 |                              |
+| 🍀 |                              |
+| 💥 |                              |
+---
+# BoB 1.3
+
 Wekan
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/wekan/wekan)
@@ -175,29 +200,6 @@ https://wekan.fi
 | 🍀 |                              |
 | 💥 |                              |
 ---
-# BoB 1.3
-
-OpenProject
-
-![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject)
---
-[![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/1000px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
-
-https://openproject.org
---
-<video src="https://www.openproject.org/assets/video/OpenProject-workflow-animation-1080p.mp4" data-preview-video></video>
---
-## infos
-
-<a href="https://openhub.net/p/openproject" data-preview-link>openhub.net</a>
---
-| SWOT | Qualität(en) & Quantität(en) |
-| :- | :--------------------------: |
-| 💪 |                              |
-| 🤕 |                              |
-| 🍀 | [Teil](https://docs.opendesk.eu/operations/introduction/) von openDesk |
-| 💥 |                              |
----
 #  BoB 1
 & Empfehlung(en) & Diskussion
 ---
@@ -209,23 +211,24 @@ https://openproject.org
 
 https://alternativeto.net/software/confluence/?license=opensource&sort=likes
 
+https://openalternative.co/?q=confluence
+
 https://www.opensourcealternative.to/?searchTerm=confluence
 
 https://opensource.builders/tool/confluence
 --
-1️⃣ AppFlowy, 2️⃣ Outline, 3️⃣ Bookstack
+1️⃣ AppFlowy, 2️⃣ Affine, 3️⃣ Outline
 
 <hr>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) Docmost
+| weitere Projekte | ⭐ |
+| -: | :-------------------------- |
+| BookStack | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) |
+| Docmost | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) |
+| Docs | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) |
+| TiddlyWiki | ![GitHub Repo stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5) |
+| MediaWiki | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) |
 
-![GitHub Repo stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5) TiddlyWiki
-
-![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) MediaWiki
-
-![GitHub Repo stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki) DokuWiki
-
-![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) XWiki
 ---
 # BoB 2.1
 
@@ -250,9 +253,9 @@ https://www.example.org
 ---
 # BoB 2.2
 
-Outline
+Affine
 
-![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline)
+![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE)
 --
 [![]()]()
 
@@ -271,9 +274,9 @@ https://www.example.org
 ---
 # BoB 2.3
 
-Bookstack
+Outline
 
-![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack)
+![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline)
 --
 [![]()]()
 
@@ -352,6 +355,22 @@ openDesk
 https://opendesk.eu
 --
 <video src="https://gitlab.opencode.de/bmi/opendesk/gitlab-profile/-/raw/main/img/openDesk_Intro.mp4" data-preview-video></video>
+--
+[![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/1000px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject)
+
+https://openproject.org
+--
+<video src="https://www.openproject.org/assets/video/OpenProject-workflow-animation-1080p.mp4" data-preview-video></video>
+--
+## infos
+--
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo-xwikiorange.svg/1000px-Logo-xwikiorange.svg.png)](https://commons.wikimedia.org/wiki/File:Logo-xwikiorange.svg)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform)
+
+https://www.xwiki.org
 --
 ## infos
 --
