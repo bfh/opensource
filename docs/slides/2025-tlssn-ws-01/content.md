@@ -56,6 +56,8 @@ Bedingung(en)
 <a href="https://de.wikipedia.org/wiki/Jira_(Software)" data-preview-link>wikipedia.de</a>
 --
 ## details
+
+[workflows](https://www.atlassian.com/software/jira/guides/workflows/overview)
 ---
 ## 2️⃣
 
@@ -84,14 +86,14 @@ https://openhub.net
 
 https://www.bestpractices.dev
 --
-## SWOTs
+## Bewertungsmatrix
 
-| Eigenschaft     | Qualität(en) & Quantität(en) |
-| :-------------- | :--------------------------: |
-| Strengths 💪     |                              |
-| Weaknesses 🤕    |                              |
-| Opportunities 🍀 |                              |
-| Threats 💥       |                              |
+| SWOT      | Qualität(en) & Quantität(en)    |
+| :-------- | :-----------------------------: |
+| 💪        |                                 |
+| 🤕        |                                 |
+| 🍀        | Ökosystem + Ressourcen & Roadmap|
+| 💥        |                                 |
 
 ---
 ## Einordnung
@@ -141,7 +143,14 @@ https://plane.so
 --
 ## infos
 
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/makeplane/plane)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/makeplane/plane)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/makeplane/plane)
+
 <a href="https://openhub.net/p/plane" data-preview-link>openhub.net</a>
+
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -160,13 +169,19 @@ Huly
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/hcengineering/platform)
 --
-[![]()]()
+[![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4)](https://github.com/hcengineering)
 
 https://huly.io
 --
-
+![](https://huly.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-illustration.7100a376.jpg&w=3840&q=75)
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/hcengineering/platform)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/hcengineering/platform)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/hcengineering/platform)
 
 <a href="https://openhub.net/p/huly" data-preview-link>openhub.net</a>
 --
@@ -191,11 +206,17 @@ https://wekan.fi
 --
 ## infos
 
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/wekan/wekan)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/wekan/wekan)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/wekan/wekan)
+
 <a href="https://openhub.net/p/wekan" data-preview-link>openhub.net</a>
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
+| 💪 | [![](https://www.bestpractices.dev/projects/4619/badge)](https://www.bestpractices.dev/en/projects/4619) |
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
@@ -217,7 +238,7 @@ https://www.opensourcealternative.to/?searchTerm=confluence
 
 https://opensource.builders/tool/confluence
 --
-1️⃣ AppFlowy, 2️⃣ Affine, 3️⃣ Outline
+1️⃣ AppFlowy (BoS), 2️⃣ Affine, 3️⃣ Outline
 
 <hr>
 
@@ -236,13 +257,19 @@ AppFlowy
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy)
 --
-[![]()]()
+[![](https://flutterawesome.com/content/images/2021/11/Asset-10.png)](https://appflowy.com)
 
-https://www.example.org
+https://appflowy.com
 --
-![]()
+![](https://appflowy.com/_next/static/media/sites.a8d5b2b9.png)
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/AppFlowy-IO/AppFlowy)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/AppFlowy-IO/AppFlowy)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -257,13 +284,19 @@ Affine
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE)
 --
-[![]()]()
+[![](https://app.affine.pro/api/workspaces/qf73AF6vzWphbTJdN7KiX/blobs/0BiaxXwdOnS_iRpCSK7k5uE2ZxXjz_jYAarbI1DRFM0=)](https://affine.pro/blog/affine-new-logo-infinite-possibility-innovation)
 
-https://www.example.org
+https://affine.pro
 --
-![]()
+<video src="https://affine.pro/overview/hero-cover.mp4" data-preview-video></video>
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/toeverything/AFFiNE)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/toeverything/AFFiNE)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/toeverything/AFFiNE)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -278,13 +311,19 @@ Outline
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline)
 --
-[![]()]()
+<img src="https://www.getoutline.com/images/logo.svg" width="256px">
 
-https://www.example.org
+https://www.getoutline.com
 --
-![]()
+![](https://user-images.githubusercontent.com/380914/110356468-26374600-7fef-11eb-9f6a-f2cc2c8c6590.png)
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/outline/outline)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/outline/outline)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/outline/outline)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
