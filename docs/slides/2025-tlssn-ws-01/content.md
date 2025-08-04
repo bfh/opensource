@@ -27,7 +27,7 @@ Teil 1 (~2.5h)
 - Alternativen inkl. Einordnung & Empfehlung(en)
   - 3 x BoB 1 + 2
   ☕ (~15')
-  - 3 x BoS
+  - 3 x BoS + Plug-Ins
 - Austausch & Diskussion inkl. Scope der Arbeitspakete
 
 ☕ (~15')
@@ -48,24 +48,6 @@ Bedingung(en)
 ### Best-of: Suite (BoS) <> Breed (BoB)
 
 [![](https://www.datocms-assets.com/73908/1688223578-digital_manufaktur_best_of_breed_vs_best_suite_textgrafik.jpg?fit=crop&fm=webp)](https://www.digitalmanufaktur.com/blog/best-of-breed-vs-best-of-suite-die-richtige-infrastruktur-fur-ihr-unternehmen)
----
-## 1️⃣
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/1280px-Jira_%28Software%29_logo.svg.png)](https://commons.wikimedia.org/wiki/File:Jira_(Software)_logo.svg)
-
-<a href="https://de.wikipedia.org/wiki/Jira_(Software)" data-preview-link>wikipedia.de</a>
---
-## details
-
-[workflows](https://www.atlassian.com/software/jira/guides/workflows/overview)
----
-## 2️⃣
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/1280px-Atlassian_Confluence_2017_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:Atlassian_Confluence_2017_logo.svg)
-
-<a href="https://de.wikipedia.org/wiki/Confluence_(Atlassian)" data-preview-link>wikipedia.de</a>
---
-## details
 ---
 # Alternativ(en)
 
@@ -102,7 +84,15 @@ Open Source
 --
 ## details
 ---
-# BoB 1
+# BoB 1️⃣
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/1280px-Jira_%28Software%29_logo.svg.png)](https://commons.wikimedia.org/wiki/File:Jira_(Software)_logo.svg)
+
+<a href="https://de.wikipedia.org/wiki/Jira_(Software)" data-preview-link>wikipedia.de</a>
+--
+## details
+
+[workflows](https://www.atlassian.com/software/jira/guides/workflows/overview)
 --
 <!-- .element: data-background-color="MidnightBlue" -->
 
@@ -224,7 +214,13 @@ https://wekan.fi
 #  BoB 1
 & Empfehlung(en) & Diskussion
 ---
-# BoB 2
+# BoB 2️⃣
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/1280px-Atlassian_Confluence_2017_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:Atlassian_Confluence_2017_logo.svg)
+
+<a href="https://de.wikipedia.org/wiki/Confluence_(Atlassian)" data-preview-link>wikipedia.de</a>
+--
+## details
 --
 <!-- .element: data-background-color="MidnightBlue" -->
 
@@ -246,7 +242,7 @@ https://opensource.builders/tool/confluence
 | -: | :-------------------------- |
 | BookStack | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) |
 | Docmost | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) |
-| Docs | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) |
+| Docs (BoS) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) |
 | TiddlyWiki | ![GitHub Repo stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5) |
 | MediaWiki | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) |
 
@@ -335,13 +331,18 @@ https://www.getoutline.com
 # BoB 2
 Empfehlung(en) & Diskussion
 ---
+# ☕ 
+~15'
+---
 # BoS 1 + 2: 3
+
+🏅 🏅 🏅 🏅
 ---
 # BoS 3.1
 
 Odoo
 
-![GitHub Repo stars](https://img.shields.io/github/stars/odoo/odoo)
+![GitHub Org's stars](https://img.shields.io/github/stars/odoo)
 --
 [![](https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg)](https://www.odoo.com/de_DE/page/brand-assets)
 
@@ -352,6 +353,12 @@ https://odoo.com
 [![YouTube Video Link](https://img.youtube.com/vi/bSn6GLVxrfM/0.jpg)](https://www.youtube.com/watch?v=bSn6GLVxrfM)
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/odoo/odoo)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/odoo/odoo)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/odoo/odoo)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -361,6 +368,61 @@ https://odoo.com
 | 💥 |                              |
 ---
 # BoS 3.2
+
+La Suite numérique
+
+![GitHub Org's stars](https://img.shields.io/github/stars/suitenumerique)
+--
+![](https://lasuite.numerique.gouv.fr/_next/static/media/suite-numerique.ebdb6ce9.svg)
+
+https://lasuite.numerique.gouv.fr
+--
+![](https://lasuite.numerique.gouv.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-home.c71fe753.png&w=1080&q=75)
+--
+https://lasuite.numerique.gouv.fr/en/produits/grist
+
+https://docs.numerique.gouv.fr/home/
+--
+![](https://www.getgrist.com/wp-content/uploads/2023/03/Grist-Logo.png)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/gristlabs/grist-core)
+
+https://www.getgrist.com
+--
+![](https://lasuite.numerique.gouv.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F2.b7b53d50.png&w=3840&q=75)
+--
+## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/gristlabs/grist-core)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/gristlabs/grist-core)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/gristlabs/grist-core)
+--
+![](https://github.com/suitenumerique/docs/raw/main/docs/assets/banner-docs.png)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs)
+
+https://docs.numerique.gouv.fr
+--
+![](https://github.com/suitenumerique/docs/raw/main/docs/assets/docs_live_collaboration_light.gif)
+--
+## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs)
+--
+| SWOT | Qualität(en) & Quantität(en) |
+| :- | :--------------------------: |
+| 💪 |                              |
+| 🤕 |                              |
+| 🍀 |                              |
+| 💥 |                              |
+---
+# BoS 3.3
 
 GitLab
 
@@ -383,7 +445,7 @@ http://gitlab.org
 | 🍀 |                              |
 | 💥 |                              |
 ---
-# BoS 3.3
+# BoS 3.4
 
 openDesk
 
@@ -395,6 +457,10 @@ https://opendesk.eu
 --
 <video src="https://gitlab.opencode.de/bmi/opendesk/gitlab-profile/-/raw/main/img/openDesk_Intro.mp4" data-preview-video></video>
 --
+https://docs.opendesk.eu/user/projekte/
+
+https://docs.opendesk.eu/user/wissen/
+--
 [![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/1000px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject)
@@ -404,6 +470,12 @@ https://openproject.org
 <video src="https://www.openproject.org/assets/video/OpenProject-workflow-animation-1080p.mp4" data-preview-video></video>
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/opf/openproject)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/opf/openproject)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/opf/openproject)
 --
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo-xwikiorange.svg/1000px-Logo-xwikiorange.svg.png)](https://commons.wikimedia.org/wiki/File:Logo-xwikiorange.svg)
 
@@ -412,6 +484,12 @@ https://openproject.org
 https://www.xwiki.org
 --
 ## infos
+
+▶️ ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform)
+
+⚖️ ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform)
+
+🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -422,6 +500,8 @@ https://www.xwiki.org
 ---
 # BoS 3
 Empfehlung(en) & Diskussion
+---
+# Plug-Ins
 ---
 # Wrap Up 1
 ---
