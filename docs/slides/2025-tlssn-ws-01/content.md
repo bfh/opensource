@@ -8,7 +8,7 @@ Open Source Alternativen zu **Jira und Confluence**
 
 <hr>
 
-### [Source](https://github.com/bfh/opensource/docs/slides/2025-tlssn-ws-01/content.md) licensed under [CC-BY-4.0](https://github.com/bfh/opensource/blob/main/LICENSE)
+### [Source](https://github.com/bfh/opensource/pull/183) licensed under [CC-BY-4.0](https://github.com/bfh/opensource/blob/main/LICENSE)
 
 --  
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
@@ -74,14 +74,34 @@ https://www.bestpractices.dev
 | 💪        | [OS-Maturitätskriterien](https://www.bestpractices.dev/de/criteria), Migrationpfad(e) |
 | 🤕        | Fehlen von Kernfunktionen |
 | 🍀        | Ökosystem, Ressourcen & Roadmap, APIs |
-| 💥        | Lizenz(en) |
+| 💥        | Lizenz(en), kein Migrationspfad |
 
 ---
 ## Einordnung
 
 Open Source
 --
-## details
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Open_Source_Initiative.svg/366px-Open_Source_Initiative.svg.png)](https://opensource.org/osd/)
+
+~ [100+ Open Source Lizenzen ✅](https://opensource.org/licenses/)
+--
+[![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO-101/module5/license-categories.png)](https://digital-sustainability.github.io/module-eoss-ospo101/module5/#overall-license-categories)
+--
+## Lizenz
+
+Open-Source-Lizenzen sind **Lizenzverträge** im üblichen / normalen Sinn
+
+Sie gewähren eine **Nutzungserlaubnis für Software**, deren Urheberrecht Dritten gehört
+
+Der Lizenzvertrag kommt **durch die Nutzung der Software ohne Weiteres zustande**
+
+<hr>
+
+## Verträge
+
+OSS-Lizenzen sind ...
+ - **bindende Verträge**, keine «Gefälligkeiten»
+ - rechtlich gültig und **vor Gericht durchsetzbar**
 ---
 # BoB 1️⃣
 
@@ -91,9 +111,16 @@ Open Source
 --
 ## details
 
-[workflows](https://www.atlassian.com/software/jira/guides/workflows/overview)
+Projekte, Boards, Issues, ...
 
-[marketplace](https://marketplace.atlassian.com/product/jira) & plugins
+Scrum, Kanban, SAFe, LeSS, ...
+
+[Workflows](https://www.atlassian.com/software/jira/guides/workflows/overview)
+
+[Benutzer & Berechtigungen](https://www.atlassian.com/de/software/jira/guides/permissions/overview)
+
+[Marketplace](https://marketplace.atlassian.com/product/jira) & Plugins
+
 --
 <!-- .element: data-background-color="MidnightBlue" -->
 
@@ -106,10 +133,6 @@ https://openalternative.co/?q=jira
 https://www.opensourcealternative.to/?searchTerm=jira
 
 https://opensource.builders/tool/jira
-
-<hr>
-
-
 --
 | # | Projekt |  ⭐ | ▶️ | ⚖️ | 🧑‍💻 | ➡️ | erster Eindruck | 🏅 |
 | -: | -----: | :-: | -: | :-: | :- | :-: | :-: | :- |
@@ -160,6 +183,8 @@ Huly - https://huly.io
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
+--
+<!-- .element: data-background-color="DarkSlateGray" -->
 ---
 
 [![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/512px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
@@ -178,6 +203,8 @@ OpenProject - https://openproject.org
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
+--
+<!-- .element: data-background-color="DarkSlateGray" -->
 ---
 #  BoB 1
 & Empfehlung(en) & Diskussion
@@ -210,15 +237,15 @@ https://opensource.builders/tool/confluence
 --
 | # | Projekt |  ⭐ | ▶️ | ⚖️ | 🧑‍💻 | ➡️ | erster Eindruck | 🏅 |
 | -: | -----: | :-: | -: | :-: | :- | :-: | :-: | :- |
-| 1 |[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) | ![GitHub Created At](https://img.shields.io/github/created-at/AppFlowy-IO/AppFlowy) | ![GitHub License](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy) | ![GitHub contributors](https://img.shields.io/github/contributors/AppFlowy-IO/AppFlowy) | ✖️ | 1er Hierarchien (Page ⇢ Sub-Page), keine Makro-/Plugin-Parität | ⛔ |
-| 2 |[Affine](https://github.com/toeverything/AFFiNE) | ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) | ![GitHub Created At](https://img.shields.io/github/created-at/toeverything/AFFiNE) | ![GitHub License](https://img.shields.io/github/license/toeverything/AFFiNE) | ![GitHub contributors](https://img.shields.io/github/contributors/toeverything/AFFiNE) | ✖️ | schwache Rechte-Matrix & Space-Struktur | ⛔ |
+| 1 |[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) | ![GitHub Created At](https://img.shields.io/github/created-at/AppFlowy-IO/AppFlowy) | ![GitHub License](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy) | ![GitHub contributors](https://img.shields.io/github/contributors/AppFlowy-IO/AppFlowy) | ✖️ | 1er Hierarchie (Page ⇢ Sub-Page), keine Makro-/Plugin-Parität | ⛔ |
+| 2 |[Affine](https://github.com/toeverything/AFFiNE) | ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) | ![GitHub Created At](https://img.shields.io/github/created-at/toeverything/AFFiNE) | ![GitHub License](https://img.shields.io/github/license/toeverything/AFFiNE) | ![GitHub contributors](https://img.shields.io/github/contributors/toeverything/AFFiNE) | ✖️ | schwache Rechte & Space-Struktur | ⛔ |
 | 3 |[Outline](https://github.com/outline/outline) | ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) | ![GitHub Created At](https://img.shields.io/github/created-at/outline/outline) | ![GitHub License](https://img.shields.io/github/license/outline/outline) | ![GitHub contributors](https://img.shields.io/github/contributors/outline/outline) | | BSL-1.1 (Business Source License) | ⛔ |
-| 4 |[BookStack](https://github.com/BookStackApp/BookStack) | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) | ![GitHub Created At](https://img.shields.io/github/created-at/BookStackApp/BookStack) | ![GitHub License](https://img.shields.io/github/license/BookStackApp/BookStack) | ![GitHub contributors](https://img.shields.io/github/contributors/BookStackApp/BookStack) | Community via HTML-Export | flache Hierarchie (Shelf > Book > Chapter > Page) | 1️⃣ |
-| 5 |[Docmost](https://github.com/docmost/docmost) | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) | ![GitHub Created At](https://img.shields.io/github/created-at/docmost/docmost) | ![GitHub License](https://img.shields.io/github/license/docmost/docmost) | ![GitHub contributors](https://img.shields.io/github/contributors/docmost/docmost) | EE-Version Feature | wenig Maintainer (Bus-Faktor) | ⛔ |
+| 4 |[BookStack](https://github.com/BookStackApp/BookStack) | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) | ![GitHub Created At](https://img.shields.io/github/created-at/BookStackApp/BookStack) | ![GitHub License](https://img.shields.io/github/license/BookStackApp/BookStack) | ![GitHub contributors](https://img.shields.io/github/contributors/BookStackApp/BookStack) | [(☑️)](https://github.com/gloverab/confluence-server-to-bookstack-importer) | etwas flache Seiten-Hierarchie | 1️⃣ |
+| 5 |[Docmost](https://github.com/docmost/docmost) | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) | ![GitHub Created At](https://img.shields.io/github/created-at/docmost/docmost) | ![GitHub License](https://img.shields.io/github/license/docmost/docmost) | ![GitHub contributors](https://img.shields.io/github/contributors/docmost/docmost) | [(☑️)](https://docmost.com/docs/#enterprise-edition-features) | wenig Maintainer (Bus-Faktor) | ⛔ |
 | 6 |[Docs](https://github.com/suitenumerique/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) | ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs) | ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs) | ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs) | | BoS | ⏭️ |
-| 7 |[TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) | ![GitHub Repo stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5) | ![GitHub Created At](https://img.shields.io/github/created-at/TiddlyWiki/TiddlyWiki5) | ![GitHub License](https://img.shields.io/github/license/TiddlyWiki/TiddlyWiki5) | ![GitHub contributors](https://img.shields.io/github/contributors/TiddlyWiki/TiddlyWiki5) | ✖️ | schwache Rechte-Matrix & Space-Struktur | ⛔ |
-| 8 |[MediaWiki](https://github.com/wikimedia/mediawiki) | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) | ![GitHub Created At](https://img.shields.io/github/created-at/wikimedia/mediawiki) | ![GitHub License](https://img.shields.io/github/license/wikimedia/mediawiki) | ![GitHub contributors](https://img.shields.io/github/contributors/wikimedia/mediawiki) | [(☑️)]() | Wikimedia-Stiftung + weltweite Community | 2️⃣ |
-| 9 |[XWiki](https://github.com/xwiki/xwiki-platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) | ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform) | ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform) | ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform) | [(☑️)]() | BoS | 3️⃣ |
+| 7 |[TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) | ![GitHub Repo stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5) | ![GitHub Created At](https://img.shields.io/github/created-at/TiddlyWiki/TiddlyWiki5) | ![GitHub License](https://img.shields.io/github/license/TiddlyWiki/TiddlyWiki5) | ![GitHub contributors](https://img.shields.io/github/contributors/TiddlyWiki/TiddlyWiki5) | ✖️ | schwache Rechte- & Space-Struktur | ⛔ |
+| 8 |[MediaWiki](https://github.com/wikimedia/mediawiki) | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) | ![GitHub Created At](https://img.shields.io/github/created-at/wikimedia/mediawiki) | ![GitHub License](https://img.shields.io/github/license/wikimedia/mediawiki) | ![GitHub contributors](https://img.shields.io/github/contributors/wikimedia/mediawiki) | [(☑️)](https://bluespice.com/de/migration-von-confluence-nach-bluespice-mediawiki/) | Wikimedia-Stiftung + weltweite Community | 2️⃣ |
+| 9 |[XWiki](https://github.com/xwiki/xwiki-platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) | ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform) | ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform) | ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform) | [☑️](https://xwiki.com/en/confluence-to-xwiki-migration/) | BoS | 3️⃣ |
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BookStack_logo.svg/504px-BookStack_logo.svg.png)](https://commons.wikimedia.org/wiki/File:BookStack_logo.svg)
 # BoB 2.1
@@ -227,7 +254,7 @@ BookStack - https://www.bookstackapp.com
 
 <a href="https://openhub.net/p/bookstack" data-preview-link>404 - openhub.net</a>
 --
-
+[![](https://www.bookstackapp.com/images/bookstack-hero-screenshot.webp)](https://www.bookstackapp.com/#screenshots)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -235,6 +262,8 @@ BookStack - https://www.bookstackapp.com
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
+--
+<!-- .element: data-background-color="DarkSlateGray" -->
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/432px-MediaWiki-2020-logo.svg.png)](https://commons.wikimedia.org/wiki/File:MediaWiki-2020-logo.svg)
 
@@ -244,7 +273,7 @@ MediaWiki - https://www.mediawiki.org
 
 <a href="https://openhub.net/p/mediawiki" data-preview-link>openhub.net</a>
 --
-
+<a href="https://de.wikipedia.org/wiki/MediaWiki" data-preview-link>MediaWiki on Wikipedia as MediaWiki</a>
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -252,6 +281,8 @@ MediaWiki - https://www.mediawiki.org
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
+--
+<!-- .element: data-background-color="DarkSlateGray" -->
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo-xwikiorange.svg/1000px-Logo-xwikiorange.svg.png)](https://commons.wikimedia.org/wiki/File:Logo-xwikiorange.svg)
 
@@ -261,7 +292,7 @@ XWiki - https://www.xwiki.org
 
 <a href="https://openhub.net/p/xwiki" data-preview-link>openhub.net</a>
 --
-
+[Playground is a test instance on XWiki.org](https://www.xwikiplayground.org/xwiki/bin/view/Main/)
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -269,6 +300,10 @@ XWiki - https://www.xwiki.org
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
+--
+<!-- .element: data-background-color="DarkSlateGray" -->
+
+https://www.xwiki.org/xwiki/bin/view/Compare/XWiki-vs-Confluence/#HComparisonbetweenXWikiandConfluence
 ---
 # BoB 2
 Empfehlung(en) & Diskussion
@@ -283,28 +318,31 @@ Empfehlung(en) & Diskussion
 # BoS 1 + 2: 3
 
 🏅 🏅 🏅 🏅
+--
+| # | Suite / Orga |  ⭐ | ▶️ | ⚖️ | 🧑‍💻 | ➡️ | erster Eindruck | 🏅 |
+| -: | -----: | :-: | -: | :-: | :- | :-: | :-: | :- |
+| 1 |[**Odoo**](https://github.com/odoo) | ![GitHub Org's stars](https://img.shields.io/github/stars/odoo) | ![GitHub Created At](https://img.shields.io/github/created-at/odoo/odoo) | ![GitHub License](https://img.shields.io/github/license/odoo/odoo) | ![GitHub contributors](https://img.shields.io/github/contributors/odoo/odoo) | [(☑️)](https://www.odoo.com/de_DE/event/odoo-experience-2025-6601/track/from-confluence-to-odoo-knowledge-in-one-click-7445) | Fokus auf ERP & CRM | 1️⃣ |
+| 2 |**La Suite** numérique | ![GitHub Org's stars](https://img.shields.io/github/stars/suitenumerique) |  | [100% open source and MIT licenced](https://github.com/suitenumerique#%EF%B8%8F-build-with-us) |  |  | BoS (6), vieles in BETA, [French government](https://github.com/suitenumerique#ℹ%EF%B8%8F-about-la-suite) | 2️⃣ |
+| 2.1 | gristlabs/[Grist](https://github.com/gristlabs/grist-core) | ![GitHub Repo stars](https://img.shields.io/github/stars/gristlabs/grist-core) | ![GitHub Created At](https://img.shields.io/github/created-at/gristlabs/grist-core) | ![GitHub License](https://img.shields.io/github/license/gristlabs/grist-core) | ![GitHub contributors](https://img.shields.io/github/contributors/gristlabs/grist-core) |  | flexible Spreadsheets |  |
+| 2.2 | [Docs](https://github.com/suitenumerique/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) | ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs) | ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs) | ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs) |  |  |  |
+| 3 |[**GitLab**](https://gitlab.com/gitlab-org/) | ![GitLab stars](https://img.shields.io/gitlab/stars/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com&style=social) | ~2011 | ![GitLab License](https://img.shields.io/gitlab/license/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com) | ![GitLab Contributors](https://img.shields.io/gitlab/contributors/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com) | [☑️](https://about.gitlab.com/move-to-gitlab-from-atlassian/) | end2end DevOps ALM für SEs | 3️⃣ |
+| 4 |[**openDesk**](https://gitlab.opencode.de/bmi/opendesk) | ![GitLab Stars](https://img.shields.io/gitlab/stars/bmi%2Fopendesk%2Fdeployment%2Fopendesk?gitlab_url=https%3A%2F%2Fgitlab.opencode.de&style=social) |  |  |  |  | [ZenDiS](https://www.opendesk.eu/de/ueber) | 4️⃣ |
+| 4.1 | [OpenProject](https://github.com/opf/openproject) | ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject) | ![GitHub Created At](https://img.shields.io/github/created-at/opf/openproject) | ![GitHub License](https://img.shields.io/github/license/opf/openproject) | ![GitHub contributors](https://img.shields.io/github/contributors/opf/openproject) | [(☑️)](https://www.openproject.org/blog/jira-migration-community-development/) | 🥇 BoB 1 |  |
+| 4.1 |[XWiki](https://github.com/xwiki/xwiki-platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) | ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform) | ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform) | ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform) | [☑️](https://xwiki.com/en/confluence-to-xwiki-migration/) | 🥇 BoB 2 |  |
 ---
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png)](https://commons.wikimedia.org/wiki/File:Odoo_Official_Logo.png)
+
 # BoS 3.1
 
-Odoo
-
-![GitHub Org's stars](https://img.shields.io/github/stars/odoo)
---
-[![](https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg)](https://www.odoo.com/de_DE/page/brand-assets)
-
-https://odoo.com
+Odoo - https://odoo.com
 --
 [![YouTube Video Link](https://img.youtube.com/vi/T45Jo3s_Pt4/0.jpg)](https://www.youtube.com/watch?v=T45Jo3s_Pt4)
+
+Odoo Project
 --
 [![YouTube Video Link](https://img.youtube.com/vi/bSn6GLVxrfM/0.jpg)](https://www.youtube.com/watch?v=bSn6GLVxrfM)
---
-## infos
 
-▶️ ![GitHub Created At](https://img.shields.io/github/created-at/odoo/odoo)
-
-⚖️ ![GitHub License](https://img.shields.io/github/license/odoo/odoo)
-
-🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/odoo/odoo)
+Odoo Knowledge
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -312,16 +350,14 @@ https://odoo.com
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
----
-# BoS 3.2
-
-La Suite numérique
-
-![GitHub Org's stars](https://img.shields.io/github/stars/suitenumerique)
 --
+<!-- .element: data-background-color="DarkSlateGray" -->
+---
 ![](https://lasuite.numerique.gouv.fr/_next/static/media/suite-numerique.ebdb6ce9.svg)
 
-https://lasuite.numerique.gouv.fr
+# BoS 3.2
+
+La Suite numérique - https://lasuite.numerique.gouv.fr
 --
 ![](https://lasuite.numerique.gouv.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-home.c71fe753.png&w=1080&q=75)
 --
@@ -331,58 +367,34 @@ https://docs.numerique.gouv.fr/home/
 --
 ![](https://www.getgrist.com/wp-content/uploads/2023/03/Grist-Logo.png)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/gristlabs/grist-core)
+[![YouTube Video Link](https://img.youtube.com/vi/iI5hJHIP2qA/0.jpg)](https://www.youtube.com/watch?v=iI5hJHIP2qA)
 
 https://www.getgrist.com
 --
-![](https://lasuite.numerique.gouv.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F2.b7b53d50.png&w=3840&q=75)
---
-## infos
-
-▶️ ![GitHub Created At](https://img.shields.io/github/created-at/gristlabs/grist-core)
-
-⚖️ ![GitHub License](https://img.shields.io/github/license/gristlabs/grist-core)
-
-🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/gristlabs/grist-core)
---
 ![](https://github.com/suitenumerique/docs/raw/main/docs/assets/banner-docs.png)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs)
 
 https://docs.numerique.gouv.fr
 --
 ![](https://github.com/suitenumerique/docs/raw/main/docs/assets/docs_live_collaboration_light.gif)
 --
-## infos
-
-▶️ ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs)
-
-⚖️ ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs)
-
-🧑‍💻 ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs)
---
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 |                              |
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
----
-# BoS 3.3
-
-GitLab
-
-![GitLab stars](https://img.shields.io/gitlab/stars/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com&style=social)
 --
+<!-- .element: data-background-color="DarkSlateGray" -->
+---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/1000px-GitLab_logo_%282%29.svg.png)](https://commons.wikimedia.org/wiki/File:GitLab_logo_(2).svg)
 
-http://gitlab.org
+# BoS 3.3
+
+GitLab - http://gitlab.org
 --
 [![YouTube Video Link](https://img.youtube.com/vi/twbp_auLOcg/0.jpg)](https://www.youtube.com/watch?v=twbp_auLOcg)
---
-## infos
 
-<a href="https://openhub.net/p/gitlab" data-preview-link>openhub.net</a>
+Why GitLab?
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
@@ -390,16 +402,14 @@ http://gitlab.org
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
----
-# BoS 3.4
-
-openDesk
-
-![GitLab Stars](https://img.shields.io/gitlab/stars/bmi%2Fopendesk%2Fdeployment%2Fopendesk?gitlab_url=https%3A%2F%2Fgitlab.opencode.de&style=social)
 --
+<!-- .element: data-background-color="DarkSlateGray" -->
+---
 ![](https://docs.opendesk.eu/_astro/openDesk-logo-rgb-color.BzVtmso__Zj8OIz.svg)
 
-https://opendesk.eu
+# BoS 3.4
+
+openDesk - https://opendesk.eu
 --
 <video src="https://gitlab.opencode.de/bmi/opendesk/gitlab-profile/-/raw/main/img/openDesk_Intro.mp4" data-preview-video></video>
 --
@@ -407,19 +417,23 @@ https://docs.opendesk.eu/user/projekte/
 
 https://docs.opendesk.eu/user/wissen/
 --
-[![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/1000px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
---
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo-xwikiorange.svg/1000px-Logo-xwikiorange.svg.png)](https://commons.wikimedia.org/wiki/File:Logo-xwikiorange.svg)
---
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 |                              |
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
+--
+<!-- .element: data-background-color="DarkSlateGray" -->
 ---
 # BoS 3
 Empfehlung(en) & Diskussion
+
+<a href="https://openhub.net/p/_compare?project_0=Odoo&project_1=GitLab&project_2=openproject" data-preview-link>openhub Projektvergleich: BoS <> BoB 1</a>
+
+<a href="https://openhub.net/p/_compare?project_0=Odoo&project_1=GitLab&project_2=XWiki" data-preview-link>openhub Projektvergleich: BoS <> BoB 2</a>
+--
+![](https://docs.opendesk.eu/_astro/openDesk-logo-rgb-color.BzVtmso__Zj8OIz.svg)
 ---
 # Plug-Ins
 ---
@@ -427,11 +441,3 @@ Empfehlung(en) & Diskussion
 ---
 # ☕ 
 ~15'
----
-# Closing section 
---
-## with precise final take away
---
-### thanks
---
-## Q&A
