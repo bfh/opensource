@@ -165,14 +165,22 @@ OpenProject - https://openproject.org
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 | [![](https://www.bestpractices.dev/projects/4619/badge)](https://www.bestpractices.dev/en/projects/4619) |
-| 🤕 |                              |
-| 🍀 |                              |
+| 💪 | [![](https://www.bestpractices.dev/projects/4619/badge)](https://www.bestpractices.dev/en/projects/4619), Agile Boards (Kanban/Scrum), Backlogs & Sprints, Taskboard, Gantt/Planer, Workflows, Custom Fields, Rollen/Berechtigungen; GitHub/GitLab-Integrationen. Abdeckung der JIRA-Kernfeatures ist hoch |
+| 🤕 | kein vollständig offizieller, pflegeleichter 1-Klick-Importer – Aufwand für Mapping/Custom Fields einplanen |
+| 🍀 | reife Roadmap & regelmäßige Releases, Community-Importer, AI Features in der Roadmap |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
 # Links & genutzte Ressourcen
+
+XWiki: https://www.openproject.org/press/press-release-openproject-and-xwiki-partnership/
+
+https://medium.com/front-end-weekly/moving-from-jira-to-openproject-a-migration-story-open-source-solution-1ff0a6c2ae25
+
+https://www.heise.de/tests/Weg-von-Atlassian-Jira-Importer-ohne-Cloud-fuer-OpenProject-im-Test-10423239.html
+
+https://www.openproject.org/blog/ai-project-portfolio-management
 ---
 [![](https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_logo_.webp)](https://plane.so)
 
@@ -186,10 +194,10 @@ Plane - https://plane.so
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
-| 🤕 |                              |
-| 🍀 |                              |
-| 💥 |                              |
+| 💪 | modernes UI |
+| 🤕 | Feature-Gating in der reinen OSS-Variante, Jira-Importer nur in Plane Cloud / kommerziellen Self-hosted-Plänen |
+| 🍀 | Sehr aktives Projekt (z. B. v0.28.0 vom 30. Juli 2025), starker OSS-Drive (AGPL-3.0) |
+| 💥 | Lücken als 1:1-JIRA-Ersatz (v. a. Epics/Portfolio, komplexe Workflows) in der reinen FOSS-Variante |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
@@ -209,10 +217,10 @@ Huly - https://huly.io
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
-| 🤕 |                              |
-| 🍀 |                              |
-| 💥 |                              |
+| 💪 | modernes UI, Task-Tracking mit Prozess-States (Backlog/Todo/In Progress/Done/Cancelled), Team-Planner, Chat, Docs u. a. – Fokus ist breiter als nur Issue-Tracking. |
+| 🤕 | keinen dedizierten JIRA-Importer; stattdessen einen Import über ein „Unified/Unified Import Format“. Für strikte JIRA-Parität (Workflows, komplexe Berechtigungen, Epics/Portfolio) ist der Reifegrad noch schwerer abzuschätzen als bei etablierteren JIRA-Alternativen.  |
+| 🍀 | „aufstrebende“ All-in-One-Plattform |
+| 💥 |  |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
@@ -265,7 +273,7 @@ https://opensource.builders/tool/confluence
 
 # BoB 2.1
 
-MediaWiki - https://www.mediawiki.org
+MediaWiki (nicht BlueSpice) - https://www.mediawiki.org
 
 <a href="https://openhub.net/p/mediawiki" data-preview-link>openhub.net</a>
 --
@@ -273,9 +281,9 @@ MediaWiki - https://www.mediawiki.org
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
+| 💪 | [![](https://www.bestpractices.dev/projects/201/badge)](https://www.bestpractices.dev/en/projects/201), VisualEditor (WYSIWYG), Namespaces/Categories, Templates und Scribunto/Lua als Makro-Äquivalent deckt MediaWiki zentrale Confluence-Funktionalitäten ab, sofern sauber konfiguriert. |
 | 🤕 |                              |
-| 🍀 |                              |
+| 🍀 | Sehr große Community (Wikimedia-Ökosystem); klare LTS-Policy |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -294,16 +302,20 @@ XWiki - https://www.xwiki.org
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
+| 💪 | Spaces/Hierarchie, starke Rechteverwaltung bis auf Seitenebene, Vorlagen/Makros und eine sehr reife Plattform. Es existiert ein Confluence-XML-Importer (inkl. Hinweis auf Makro-/Namenslängen-Grenzen) |
 | 🤕 |                              |
-| 🍀 |                              |
+| 🍀 | Teil der BoS "openCode" |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
 # Links & genutzte Ressourcen
 
-https://www.xwiki.org/xwiki/bin/view/Compare/XWiki-vs-Confluence/#HComparisonbetweenXWikiandConfluence
+https://www.xwiki.org/xwiki/bin/view/Compare/XWiki-vs-Confluence/
+
+OpenProject: https://www.openproject.org/press/press-release-openproject-and-xwiki-partnership/
+
+https://xwiki.com/en/confluence-to-xwiki-migration/
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BookStack_logo.svg/504px-BookStack_logo.svg.png)](https://commons.wikimedia.org/wiki/File:BookStack_logo.svg)
 # BoB 2.3
@@ -316,8 +328,8 @@ BookStack - https://www.bookstackapp.com
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
-| 🤕 |                              |
+| 💪 | Fokus auf einfache Informationsarchitektur (Regal → Buch → Kapitel → Seite), WYSIWYG-Editor, Anhänge, Kommentare (inkl. Verweise aus dem Editor), Rollen/Rechte fein granular; Suche & Tags. |
+| 🤕 | Kein offizieller Confluence-Importer; praxistauglich sind HTML-Exports → Import/Skripte. |
 | 🍀 |                              |
 | 💥 |                              |
 --
@@ -338,6 +350,8 @@ Empfehlung(en) & Diskussion
 ~15'
 ---
 # BoS 1 + 2: 3
+
+[![](https://upload.wikimedia.org/wikipedia/de/thumb/2/2c/Atlassian_2024_logo.svg/1280px-Atlassian_2024_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:Atlassian_2024_logo.svg)
 
 🏅 🏅 🏅 🏅
 --
@@ -366,7 +380,7 @@ https://docs.opendesk.eu/user/wissen/
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
+| 💪 | https://zendis.de |
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
@@ -374,6 +388,10 @@ https://docs.opendesk.eu/user/wissen/
 <!-- .element: data-background-color="DarkSlateGray" -->
 
 # Links & genutzte Ressourcen
+
+https://www.openproject.org/press/press-release-openproject-and-xwiki-partnership/
+
+https://www.gecko.de/wissenshub/microsoft-365-oeffentliche-verwaltung-opendesk-als-dsgvo-konforme-alternative-im-haertetest/
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/1000px-GitLab_logo_%282%29.svg.png)](https://commons.wikimedia.org/wiki/File:GitLab_logo_(2).svg)
 
@@ -387,7 +405,7 @@ Why GitLab?
 --
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
+| 💪 | [![](https://www.bestpractices.dev/projects/42/badge)](https://www.bestpractices.dev/en/projects/42), https://gitlab.opencode.de |
 | 🤕 |                              |
 | 🍀 |                              |
 | 💥 |                              |
@@ -413,8 +431,8 @@ Odoo Knowledge
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 |                              |
-| 🤕 |                              |
-| 🍀 |                              |
+| 🤕 | anderer Kernfokus im BoS Ansatz |
+| 🍀 | Sehr breite BoS (40+) |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
