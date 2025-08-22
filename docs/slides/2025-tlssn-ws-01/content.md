@@ -12,7 +12,18 @@ Open Source Alternativen
 
 ### [Source](https://github.com/bfh/opensource/pull/183) licensed under [CC-BY-4.0](https://github.com/bfh/opensource/blob/main/LICENSE)
 
---  
+--
+<!-- .element: data-background-color="SeaGreen" -->
+
+# 🟩 
+
+> Wann ist der heutige Workshop für **dich** ein Erfolg?
+
+🟨 ... 🟥
+--
+**(kurze)**
+# Vorstellungsrunde
+--
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
 [Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
@@ -37,6 +48,10 @@ Teil 2 (~1h) - Ausblick auf Anforderungsanalyse
 - Use Cases
 - Wrap-Up & weiteres Vorgehen
 ```
+--
+# Fragen + Parkplatz 🟦
+
+[![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Simple-kanban-board-.jpg)](https://openpracticelibrary.com/practice/kanban/)
 ---
 # Rahmen
 Bedingung(en)
@@ -58,9 +73,9 @@ Open Source
 --
 # 🏅 🏅 🏅
 
-**Top 3**
+# Top 3
 
-pro Domäne
+**ergebnisoffener Ansatz** pro Domäne
 
 # 🔍
 
@@ -74,14 +89,28 @@ https://openhub.net
 
 https://www.bestpractices.dev
 --
-## Bewertungsmatrix
+## Legende: SWOT pro Projekt
 
-| SWOT      | Qualität(en) & Quantität(en)    |
-| :-------- | :-----------------------------: |
-| 💪        | [OS-Maturitätskriterien](https://www.bestpractices.dev/de/criteria), Migrationpfad(e) |
-| 🤕        | Fehlen von Kernfunktionen |
-| 🍀        | Ökosystem, Ressourcen & Roadmap, APIs |
-| 💥        | Lizenz(en), kein Migrationspfad |
+|             | Symbol    | Qualität(en) & Quantität(en)    |
+|------------:| :-------: | :------------------------------ |
+|Strengths    | 💪        | [OS-Maturitätskriterien](https://www.bestpractices.dev/de/criteria), Migrationpfad(e) |
+|Weaknesses   | 🤕        | Fehlen von Kernfunktionen |
+|Opportunities| 🍀        | Ökosystem, Ressourcen & Roadmap, APIs |
+|Threats      | 💥        | Lizenz(en), kein Migrationspfad |
+
+--
+## Legende: Gegenüberstellung von Projekten
+
+|                    | Symbol    |            |
+|-------------------:| :-------: | :--------- |
+| Name des Projektes |           | offizieller Name inkl. Link zum Quellcode-Repository des Projektes |
+| Beliebheit         | ⭐        | (sehr) viele Plattformen nutzen dies als primäres Sortierkrtierium |
+| Startzeitpunkt des Projektes > Alter      | ▶️        |            |
+| Lizenz            | ⚖️        | öffentlich ausgewiesene Lizenz des Projektes |
+| Anzahl Contributoren            | 🧑‍💻        | Wie viele Menschen wirken im Hintergrund am Projekt mit |
+| Migrationspfad | ➡️        | Bekannt oder sogar (offiziell) unterstützt |
+| erster Eindruck |         | (subjektiver), erster Eindruck bei der Recherche |
+| Kandidat für die Shortlist | 🏅 | 🔍: ja Analyse erfolgt; ⛔: nein, KO Kriterium bereits vorhanden; ⏭️ Analyse erfolgt später im Kontext von BoS |
 
 ---
 ## Einordnung
@@ -163,6 +192,8 @@ OpenProject - https://openproject.org
 --
 <video src="https://www.openproject.org/assets/video/OpenProject-workflow-animation-1080p.mp4" data-preview-video></video>
 --
+# BoB 1.1: OpenProject
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | [![](https://www.bestpractices.dev/projects/4619/badge)](https://www.bestpractices.dev/en/projects/4619), Agile Boards (Kanban/Scrum), Backlogs & Sprints, Taskboard, Gantt/Planer, Workflows, Custom Fields, Rollen/Berechtigungen; GitHub/GitLab-Integrationen. Abdeckung der JIRA-Kernfeatures ist hoch |
@@ -192,6 +223,8 @@ Plane - https://plane.so
 --
 [![](https://images.plane.so/home/hero/work-item-light.webp)](https://docs.plane.so)
 --
+# BoB 1.2: Plane
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | modernes UI |
@@ -215,6 +248,8 @@ Huly - https://huly.io
 --
 ![](https://huly.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-illustration.7100a376.jpg&w=3840&q=75)
 --
+# BoB 1.3: Huly
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | modernes UI, Task-Tracking mit Prozess-States (Backlog/Todo/In Progress/Done/Cancelled), Team-Planner, Chat, Docs u. a. – Fokus ist breiter als nur Issue-Tracking. |
@@ -262,11 +297,11 @@ https://opensource.builders/tool/confluence
 |[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) | ![GitHub Created At](https://img.shields.io/github/created-at/AppFlowy-IO/AppFlowy) | ![GitHub License](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy) | ![GitHub contributors](https://img.shields.io/github/contributors/AppFlowy-IO/AppFlowy) | ✖️ | 1er Hierarchie (Page ⇢ Sub-Page), keine Makro-/Plugin-Parität | ⛔ |
 |[MediaWiki](https://github.com/wikimedia/mediawiki) | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) | ![GitHub Created At](https://img.shields.io/github/created-at/wikimedia/mediawiki) | ![GitHub License](https://img.shields.io/github/license/wikimedia/mediawiki) | ![GitHub contributors](https://img.shields.io/github/contributors/wikimedia/mediawiki) | [(☑️)](https://bluespice.com/de/migration-von-confluence-nach-bluespice-mediawiki/) | Wikimedia-Stiftung + weltweite Community | 🔍 |
 |[TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) | ![GitHub Repo stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5) | ![GitHub Created At](https://img.shields.io/github/created-at/TiddlyWiki/TiddlyWiki5) | ![GitHub License](https://img.shields.io/github/license/TiddlyWiki/TiddlyWiki5) | ![GitHub contributors](https://img.shields.io/github/contributors/TiddlyWiki/TiddlyWiki5) | ✖️ | schwache Rechte- & Space-Struktur | ⛔ |
-|[XWiki](https://github.com/xwiki/xwiki-platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) | ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform) | ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform) | ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform) | [☑️](https://xwiki.com/en/confluence-to-xwiki-migration/) | BoS | 🔍 |
+|[XWiki](https://github.com/xwiki/xwiki-platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) | ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform) | ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform) | ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform) | [☑️](https://xwiki.com/en/confluence-to-xwiki-migration/) | Teil von BoS | 🔍 |
 |[Outline](https://github.com/outline/outline) | ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) | ![GitHub Created At](https://img.shields.io/github/created-at/outline/outline) | ![GitHub License](https://img.shields.io/github/license/outline/outline) | ![GitHub contributors](https://img.shields.io/github/contributors/outline/outline) | | BSL-1.1 (Business Source License) | ⛔ |
 |[BookStack](https://github.com/BookStackApp/BookStack) | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) | ![GitHub Created At](https://img.shields.io/github/created-at/BookStackApp/BookStack) | ![GitHub License](https://img.shields.io/github/license/BookStackApp/BookStack) | ![GitHub contributors](https://img.shields.io/github/contributors/BookStackApp/BookStack) | [(☑️)](https://github.com/gloverab/confluence-server-to-bookstack-importer) | etwas flache Seiten-Hierarchie | 🔍 |
 |[Affine](https://github.com/toeverything/AFFiNE) | ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) | ![GitHub Created At](https://img.shields.io/github/created-at/toeverything/AFFiNE) | ![GitHub License](https://img.shields.io/github/license/toeverything/AFFiNE) | ![GitHub contributors](https://img.shields.io/github/contributors/toeverything/AFFiNE) | ✖️ | schwache Rechte- & Space-Struktur | ⛔ |
-|[Docs](https://github.com/suitenumerique/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) | ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs) | ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs) | ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs) | | BoS | ⏭️ |
+|[Docs](https://github.com/suitenumerique/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) | ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs) | ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs) | ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs) | | Teil von BoS | ⏭️ |
 |[Docmost](https://github.com/docmost/docmost) | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) | ![GitHub Created At](https://img.shields.io/github/created-at/docmost/docmost) | ![GitHub License](https://img.shields.io/github/license/docmost/docmost) | ![GitHub contributors](https://img.shields.io/github/contributors/docmost/docmost) | [(☑️)](https://docmost.com/docs/#enterprise-edition-features) | wenig Maintainer (Bus-Faktor) | ⛔ |
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/432px-MediaWiki-2020-logo.svg.png)](https://commons.wikimedia.org/wiki/File:MediaWiki-2020-logo.svg)
@@ -279,6 +314,8 @@ MediaWiki (nicht BlueSpice) - https://www.mediawiki.org
 --
 <a href="https://de.wikipedia.org/wiki/MediaWiki" data-preview-link>MediaWiki on Wikipedia as MediaWiki</a>
 --
+# BoB 2.1: MediaWiki
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | [![](https://www.bestpractices.dev/projects/201/badge)](https://www.bestpractices.dev/en/projects/201), VisualEditor (WYSIWYG), Namespaces/Categories, Templates und Scribunto/Lua als Makro-Äquivalent deckt MediaWiki zentrale Confluence-Funktionalitäten ab, sofern sauber konfiguriert. |
@@ -300,6 +337,8 @@ XWiki - https://www.xwiki.org
 --
 [Playground is a test instance on XWiki.org](https://www.xwikiplayground.org/xwiki/bin/view/Main/)
 --
+# BoB 2.2: XWiki
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | Spaces/Hierarchie, starke Rechteverwaltung bis auf Seitenebene, Vorlagen/Makros und eine sehr reife Plattform. Es existiert ein Confluence-XML-Importer (inkl. Hinweis auf Makro-/Namenslängen-Grenzen) |
@@ -326,6 +365,8 @@ BookStack - https://www.bookstackapp.com
 --
 [![](https://www.bookstackapp.com/images/bookstack-hero-screenshot.webp)](https://www.bookstackapp.com/#screenshots)
 --
+# BoB 2.3: BookStack
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | Fokus auf einfache Informationsarchitektur (Regal → Buch → Kapitel → Seite), WYSIWYG-Editor, Anhänge, Kommentare (inkl. Verweise aus dem Editor), Rollen/Rechte fein granular; Suche & Tags. |
@@ -378,11 +419,13 @@ https://docs.opendesk.eu/user/projekte/
 
 https://docs.opendesk.eu/user/wissen/
 --
+# BoS 3.1: openDesk
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | https://zendis.de |
 | 🤕 |                              |
-| 🍀 |                              |
+| 🍀 | [breite Produktvision](https://gitlab.opencode.de/bmi/opendesk/info/-/tree/23.12#produktvision) & [klare Roadmap](https://www.opendesk.eu/de/roadmap) mit monatlichen Releases |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -403,6 +446,8 @@ GitLab - http://gitlab.org
 
 Why GitLab?
 --
+# BoS 3.2: GitLab
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | [![](https://www.bestpractices.dev/projects/42/badge)](https://www.bestpractices.dev/en/projects/42), https://gitlab.opencode.de |
@@ -428,6 +473,8 @@ Odoo Project
 
 Odoo Knowledge
 --
+# BoS 3.3: Odoo
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 |                              |
@@ -463,10 +510,12 @@ https://docs.numerique.gouv.fr
 --
 ![](https://github.com/suitenumerique/docs/raw/main/docs/assets/docs_live_collaboration_light.gif)
 --
+# BoS 3.4: La Suite
+
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 |                              |
-| 🤕 |                              |
+| 🤕 | zZ vieles noch als BETA deklariert |
 | 🍀 |                              |
 | 💥 |                              |
 --
@@ -489,7 +538,7 @@ Empfehlung(en) & Diskussion
 ---
 # Plug-Ins
 ---
-# Wrap Up 1
+# Austausch & Diskussion
 ---
 # ☕ 
 ~15'
