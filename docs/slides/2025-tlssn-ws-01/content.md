@@ -462,7 +462,7 @@ https://docs.opendesk.eu/user/wissen/
 
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 | https://zendis.de |
+| 💪 | 🥇 BoB 1 & 2, https://zendis.de |
 | 🤕 | Produktfokus (CE, EE) |
 | 🍀 | [breite Vision](https://gitlab.opencode.de/bmi/opendesk/info/-/tree/23.12#produktvision) & [klare Roadmap](https://www.opendesk.eu/de/roadmap) mit monatlichen Releases |
 | 💥 |                              |
@@ -491,7 +491,7 @@ Why GitLab?
 | :- | :--------------------------: |
 | 💪 | [![](https://www.bestpractices.dev/projects/42/badge)](https://www.bestpractices.dev/en/projects/42), https://gitlab.opencode.de, für Einsteiger & Experten |
 | 🤕 | technischer Fokus (git, komplexe Workflows), Produkt (CE & EE) |
-| 🍀 | APIs + CLI |
+| 🍀 | APIs + CLI, git-basiert |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -532,6 +532,8 @@ Odoo Knowledge
 La Suite numérique - https://lasuite.numerique.gouv.fr
 --
 ![](https://lasuite.numerique.gouv.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-home.c71fe753.png&w=1080&q=75)
+
+https://lasuite.numerique.gouv.fr/en
 --
 https://lasuite.numerique.gouv.fr/en/produits/grist
 
@@ -553,7 +555,7 @@ https://docs.numerique.gouv.fr
 
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 |                              |
+| 💪 | https://lasuite.numerique.gouv.fr, docs mit vielen guten low-Level Funktionen |
 | 🤕 | zZ vieles noch als BETA deklariert |
 | 🍀 |                              |
 | 💥 |                              |
@@ -568,17 +570,26 @@ Empfehlung(en) & Diskussion
 <a href="https://openhub.net/p/_compare?project_0=Odoo&project_1=GitLab&project_2=openproject" data-preview-link>openhub Projektvergleich: BoS <> BoB 1</a>
 
 <a href="https://openhub.net/p/_compare?project_0=Odoo&project_1=GitLab&project_2=XWiki" data-preview-link>openhub Projektvergleich: BoS <> BoB 2</a>
+
+<hr>
+
+Cocomo Schätzung / Contributoren von Gitlab ~ 10x BoB
+
 --
 # 💡
 
 <hr>
 
-🔴
+🔴 
 
-🟡
+🟡 Odoo, La Suite (vor allem Grist) haben anderen Fokus
 
-🟢
+🟢 openDesk & Gitlab stellen starkes Ökosystem
 --
 ![](https://docs.opendesk.eu/_astro/openDesk-logo-rgb-color.BzVtmso__Zj8OIz.svg)
+
+Empfehlung für "Suite-Experience" für Endanwender
 --
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/1000px-GitLab_logo_%282%29.svg.png)](https://commons.wikimedia.org/wiki/File:GitLab_logo_(2).svg)
+
+Empfehlung als "Suite-Experience" für Entwicklungsteams
