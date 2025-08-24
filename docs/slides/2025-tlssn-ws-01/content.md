@@ -37,12 +37,12 @@ Teil 1 (~2.5h) - Jira & Confluence
 - Einleitung & Rahmenbedingungen (~15')
 - Alternativen inkl. Einordnung & Empfehlung(en)
   - 3 x BoB 1 + 2
-  ☕ (~15')
+  ☕ Kaffeepause # 1 (~15')
   - 4 x BoS
   - Plug-Ins
 - Austausch & Diskussion
 
-☕ (~15')
+☕ Kaffeepause # 2 (~15')
 
 Teil 2 (~1h) - Ausblick auf Anforderungsanalyse
 - Use Cases
@@ -181,6 +181,7 @@ https://opensource.builders/tool/jira
 | [Huly](https://github.com/hcengineering/platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/hcengineering/platform) | ![GitHub Created At](https://img.shields.io/github/created-at/hcengineering/platform) | ![GitHub License](https://img.shields.io/github/license/hcengineering/platform) | ![GitHub contributors](https://img.shields.io/github/contributors/hcengineering/platform) | [(☑️)](https://forum.opencraft.com/t/moving-from-jira-to-huly-planning/1865) | BoS (2+) | 🔍 | 
 [Tuleap](https://github.com/Enalean/tuleap) | ![GitHub Repo stars](https://img.shields.io/github/stars/Enalean/tuleap) | ![GitHub Created At](https://img.shields.io/github/created-at/Enalean/tuleap) | ![GitHub License](https://img.shields.io/github/license/Enalean/tuleap) | ![GitHub contributors](https://img.shields.io/github/contributors/Enalean/tuleap) | [(☑️)](https://www.tuleap.org/product/compare/tuleap-versus-jira-software) | BoS (5+) |  |
 | [Redmine](https://github.com/redmine/redmine) | ![GitHub Repo stars](https://img.shields.io/github/stars/redmine/redmine) | ![GitHub Created At](https://img.shields.io/github/created-at/redmine/redmine) | ![GitHub License](https://img.shields.io/github/license/redmine/redmine) | ![GitHub contributors](https://img.shields.io/github/contributors/redmine/redmine) | [(☑️)](https://www.redmine.org/plugins/jira2redmine) | BoS (2+) |  |
+| ... | | | | | | | |
 ---
 [![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/512px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
 
@@ -190,16 +191,16 @@ OpenProject - https://openproject.org
 
 <a href="https://openhub.net/p/openproject" data-preview-link>openhub.net</a>
 --
-<video src="https://www.openproject.org/assets/video/OpenProject-workflow-animation-1080p.mp4" data-preview-video></video>
+<video src="https://openproject-docs.s3.eu-central-1.amazonaws.com/videos/OpenProject-Intro.mp4" data-preview-video></video>
 --
 # BoB 1.1: OpenProject
 
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 | [![](https://www.bestpractices.dev/projects/4619/badge)](https://www.bestpractices.dev/en/projects/4619), Agile Boards (Kanban/Scrum), Backlogs & Sprints, Taskboard, Gantt/Planer, Workflows, Custom Fields, Rollen/Berechtigungen; GitHub/GitLab-Integrationen. Abdeckung der JIRA-Kernfeatures ist hoch |
-| 🤕 | kein vollständig offizieller, pflegeleichter 1-Klick-Importer – Aufwand für Mapping/Custom Fields einplanen |
-| 🍀 | reife Roadmap & regelmäßige Releases, Community-Importer, AI Features in der Roadmap |
-| 💥 |                              |
+| 💪 | Agile Boards (Kanban/Scrum), Backlogs & Sprints, Taskboard, Gantt/Planer, Workflows, Custom Fields, Rollen/Berechtigungen; GitHub/GitLab-Integrationen. Abdeckung der JIRA-Kernfeatures ist hoch, [Plug-in Architektur](https://www.openproject.org/docs/system-admin-guide/plugins/) |
+| 🤕 | kein vollständig offizieller, pflegeleichter 1-Klick-Importer – Aufwand für Mapping/Custom Fields einplanen, CE ist FOSS |
+| 🍀 | reife Roadmap & regelmäßige Releases, Community-Importer, AI Features in der Roadmap, [API](https://www.openproject.org/docs/api/) |
+| 💥 | [Ruby nicht in den Top 10 programming languages 2024](https://github.blog/news-insights/octoverse/octoverse-2024/#the-most-popular-programming-languages) |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
@@ -229,7 +230,7 @@ Plane - https://plane.so
 | :- | :--------------------------: |
 | 💪 | modernes UI |
 | 🤕 | Feature-Gating in der reinen OSS-Variante, Jira-Importer nur in Plane Cloud / kommerziellen Self-hosted-Plänen |
-| 🍀 | Sehr aktives Projekt (z. B. v0.28.0 vom 30. Juli 2025), starker OSS-Drive (AGPL-3.0) |
+| 🍀 | Sehr aktives Projekt (z. B. v0.28.0 vom 30. Juli 2025), starker OSS-Drive (AGPL-3.0), APIs, [TypeScript #3 in Top 10 programming languages 2024](https://github.blog/news-insights/octoverse/octoverse-2024/#the-most-popular-programming-languages) |
 | 💥 | Lücken als 1:1-JIRA-Ersatz (v. a. Epics/Portfolio, komplexe Workflows) in der reinen FOSS-Variante |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -254,19 +255,35 @@ Huly - https://huly.io
 | :- | :--------------------------: |
 | 💪 | modernes UI, Task-Tracking mit Prozess-States (Backlog/Todo/In Progress/Done/Cancelled), Team-Planner, Chat, Docs u. a. – Fokus ist breiter als nur Issue-Tracking. |
 | 🤕 | keinen dedizierten JIRA-Importer; stattdessen einen Import über ein „Unified/Unified Import Format“. Für strikte JIRA-Parität (Workflows, komplexe Berechtigungen, Epics/Portfolio) ist der Reifegrad noch schwerer abzuschätzen als bei etablierteren JIRA-Alternativen.  |
-| 🍀 | „aufstrebende“ All-in-One-Plattform |
-| 💥 |  |
+| 🍀 | „aufstrebende“ All-in-One-Plattform, [API Client](https://github.com/hcengineering/platform/blob/develop/packages/api-client/README.md) |
+| 💥 | [keine Plug-Ins](https://docs.huly.io/getting-started/api-tools/) |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
 # Links & genutzte Ressourcen
+
+https://github.com/hcengineering/huly-selfhost
 ---
 #  BoB 1
 & Empfehlung(en) & Diskussion
 
 <a href="https://openhub.net/p/_compare?project_0=plane&project_1=huly&project_2=openproject&submit_2=Go" data-preview-link>openhub.net Vergleich</a>
---
 
+<hr>
+
+OpenProject > Plane & Huly
+
+2 x Cocomo-Wert, breitere Contributor Basis
+--
+# 💡
+
+<hr>
+
+🔴 fehlende Plug-In Architektur Huly
+
+🟡 Plane & Huly noch relativ junge Projekte < 5a
+
+🟢 openProject-Momentum durch BoS Roadmap & Partner
 --
 [![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/OpenProject_logo.svg/1024px-OpenProject_logo.svg.png)](https://de.wikipedia.org/wiki/Datei:OpenProject_logo.svg)
 ---
@@ -277,6 +294,12 @@ Huly - https://huly.io
 <a href="https://de.wikipedia.org/wiki/Confluence_(Atlassian)" data-preview-link>wikipedia.de</a>
 --
 ## details
+
+Spaces, Pages
+
+Suche(n)
+
+div. Integrationen: JIRA, ...
 
 [marketplace](https://marketplace.atlassian.com/product/confluence) & plugins
 --
@@ -303,6 +326,7 @@ https://opensource.builders/tool/confluence
 |[Affine](https://github.com/toeverything/AFFiNE) | ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) | ![GitHub Created At](https://img.shields.io/github/created-at/toeverything/AFFiNE) | ![GitHub License](https://img.shields.io/github/license/toeverything/AFFiNE) | ![GitHub contributors](https://img.shields.io/github/contributors/toeverything/AFFiNE) | ✖️ | schwache Rechte- & Space-Struktur | ⛔ |
 |[Docs](https://github.com/suitenumerique/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) | ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs) | ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs) | ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs) | | Teil von BoS | ⏭️ |
 |[Docmost](https://github.com/docmost/docmost) | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) | ![GitHub Created At](https://img.shields.io/github/created-at/docmost/docmost) | ![GitHub License](https://img.shields.io/github/license/docmost/docmost) | ![GitHub contributors](https://img.shields.io/github/contributors/docmost/docmost) | [(☑️)](https://docmost.com/docs/#enterprise-edition-features) | wenig Maintainer (Bus-Faktor) | ⛔ |
+| ... | | | | | | | |
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/432px-MediaWiki-2020-logo.svg.png)](https://commons.wikimedia.org/wiki/File:MediaWiki-2020-logo.svg)
 
@@ -318,9 +342,9 @@ MediaWiki (nicht BlueSpice) - https://www.mediawiki.org
 
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 | [![](https://www.bestpractices.dev/projects/201/badge)](https://www.bestpractices.dev/en/projects/201), VisualEditor (WYSIWYG), Namespaces/Categories, Templates und Scribunto/Lua als Makro-Äquivalent deckt MediaWiki zentrale Confluence-Funktionalitäten ab, sofern sauber konfiguriert. |
-| 🤕 |                              |
-| 🍀 | Sehr große Community (Wikimedia-Ökosystem); klare LTS-Policy |
+| 💪 | [![](https://www.bestpractices.dev/projects/201/badge)](https://www.bestpractices.dev/en/projects/201), VisualEditor (WYSIWYG), Namespaces/Categories, Templates und Scribunto/Lua als Makro-Äquivalent deckt MediaWiki zentrale Confluence-Funktionalitäten ab, sofern sauber konfiguriert, [Media Wiki Extensions](https://www.mediawiki.org/wiki/Manual:Extensions) |
+| 🤕 | etwas in die Jahre gekommenes UI, Abwärtstrend von [PHP #7 in Top 10 programming languages 2024](https://github.blog/news-insights/octoverse/octoverse-2024/#the-most-popular-programming-languages) |
+| 🍀 | Sehr große Community (Wikimedia-Ökosystem); klare LTS-Policy, [API](https://www.mediawiki.org/wiki/API:Main_page/de) |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -341,9 +365,9 @@ XWiki - https://www.xwiki.org
 
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 | Spaces/Hierarchie, starke Rechteverwaltung bis auf Seitenebene, Vorlagen/Makros und eine sehr reife Plattform. Es existiert ein Confluence-XML-Importer (inkl. Hinweis auf Makro-/Namenslängen-Grenzen) |
-| 🤕 |                              |
-| 🍀 | Teil der BoS "openCode" |
+| 💪 | Spaces/Hierarchie, starke Rechteverwaltung bis auf Seitenebene, Vorlagen/Makros und eine sehr reife Plattform. Es existiert ein Confluence-XML-Importer (inkl. Hinweis auf Makro-/Namenslängen-Grenzen), 900+ [XWiki Extensions](https://extensions.xwiki.org) |
+| 🤕 | Abwärtstrend von [Java #4 in Top 10 programming languages 2024](https://github.blog/news-insights/octoverse/octoverse-2024/#the-most-popular-programming-languages) |
+| 🍀 | Teil der BoS "openDesk", [REST-API](https://www.xwiki.org/xwiki/bin/view/Documentation/UserGuide/Features/XWikiRESTfulAPI) |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -372,7 +396,7 @@ BookStack - https://www.bookstackapp.com
 | 💪 | Fokus auf einfache Informationsarchitektur (Regal → Buch → Kapitel → Seite), WYSIWYG-Editor, Anhänge, Kommentare (inkl. Verweise aus dem Editor), Rollen/Rechte fein granular; Suche & Tags. |
 | 🤕 | Kein offizieller Confluence-Importer; praxistauglich sind HTML-Exports → Import/Skripte. |
 | 🍀 |                              |
-| 💥 |                              |
+| 💥 | [zZ kein Plug-In / Extension Support](https://github.com/BookStackApp/BookStack/issues/127) |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
 
@@ -382,8 +406,22 @@ BookStack - https://www.bookstackapp.com
 Empfehlung(en) & Diskussion
 
 <a href="https://openhub.net/p/_compare?project_0=bookstack&project_1=mediawiki&project_2=xwiki&submit_2=Go" data-preview-link>openhub.net Vergleich</a>
---
 
+<hr>
+
+2 x Cocomo-Wert XWiki
+
+aber 2x breitere Contributor Basis MediaWiki
+--
+# 💡
+
+<hr>
+
+🔴 fehlende Plug-In Architektur BookStack
+
+🟡 MediaWiki & XWiki beide sehr starke Communities; MediaWiki grösser
+
+🟢 XWiki-Momentum durch BoS Roadmap & Partner
 --
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo-xwikiorange.svg/1000px-Logo-xwikiorange.svg.png)](https://commons.wikimedia.org/wiki/File:Logo-xwikiorange.svg)
 ---
@@ -398,14 +436,15 @@ Empfehlung(en) & Diskussion
 --
 | Typ | Suite / Orga |  ⭐ | ▶️ | ⚖️ | 🧑‍💻 | ➡️ | erster Eindruck | 🏅 |
 | -: | -----: | :-: | -: | :-: | :- | :-: | :-: | :- |
-| BoS |[**openDesk**](https://gitlab.opencode.de/bmi/opendesk) | ![GitLab Stars](https://img.shields.io/gitlab/stars/bmi%2Fopendesk%2Fdeployment%2Fopendesk?gitlab_url=https%3A%2F%2Fgitlab.opencode.de&style=social) |  |  | 482 |  | [ZenDiS](https://www.opendesk.eu/de/ueber) | 🔍 |
+| BoS ([12](https://www.opendesk.eu/de/produkt)) |[**openDesk**](https://gitlab.opencode.de/bmi/opendesk) | ![GitLab Stars](https://img.shields.io/gitlab/stars/bmi%2Fopendesk%2Fdeployment%2Fopendesk?gitlab_url=https%3A%2F%2Fgitlab.opencode.de&style=social) |  |  | 482 |  | [ZenDiS](https://www.opendesk.eu/de/ueber) | 🔍 |
 | BoB | [OpenProject](https://github.com/opf/openproject) | ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject) | ![GitHub Created At](https://img.shields.io/github/created-at/opf/openproject) | ![GitHub License](https://img.shields.io/github/license/opf/openproject) | ![GitHub contributors](https://img.shields.io/github/contributors/opf/openproject) | [(☑️)](https://www.openproject.org/blog/jira-migration-community-development/) | 🥇 BoB 1 |  |
 | BoB |[XWiki](https://github.com/xwiki/xwiki-platform) | ![GitHub Repo stars](https://img.shields.io/github/stars/xwiki/xwiki-platform) | ![GitHub Created At](https://img.shields.io/github/created-at/xwiki/xwiki-platform) | ![GitHub License](https://img.shields.io/github/license/xwiki/xwiki-platform) | ![GitHub contributors](https://img.shields.io/github/contributors/xwiki/xwiki-platform) | [☑️](https://xwiki.com/en/confluence-to-xwiki-migration/) | 🥇 BoB 2 |  |
-| BoS |[**GitLab**](https://gitlab.com/gitlab-org/) | ![GitLab stars](https://img.shields.io/gitlab/stars/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com&style=social) | ~2011 | ![GitLab License](https://img.shields.io/gitlab/license/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com) | ![GitLab Contributors](https://img.shields.io/gitlab/contributors/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com) | [☑️](https://about.gitlab.com/move-to-gitlab-from-atlassian/) | end2end DevOps ALM für SEs | 🔍 |
-| BoS |[**Odoo**](https://github.com/odoo) | ![GitHub Org's stars](https://img.shields.io/github/stars/odoo) | ![GitHub Created At](https://img.shields.io/github/created-at/odoo/odoo) | ![GitHub License](https://img.shields.io/github/license/odoo/odoo) | ![GitHub contributors](https://img.shields.io/github/contributors/odoo/odoo) | [(☑️)](https://www.odoo.com/de_DE/event/odoo-experience-2025-6601/track/from-confluence-to-odoo-knowledge-in-one-click-7445) | Fokus auf ERP & CRM | 🔍 |
-| BoS |**La Suite** numérique | ![GitHub Org's stars](https://img.shields.io/github/stars/suitenumerique) |  | [100% open source and MIT licenced](https://github.com/suitenumerique#%EF%B8%8F-build-with-us) | 158 |  | BoS (6), vieles in BETA, [French government](https://github.com/suitenumerique#ℹ%EF%B8%8F-about-la-suite) | 🔍 |
+| BoS (8) |[**GitLab**](https://gitlab.com/gitlab-org/) | ![GitLab stars](https://img.shields.io/gitlab/stars/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com&style=social) | ~2011 | ![GitLab License](https://img.shields.io/gitlab/license/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com) | ![GitLab Contributors](https://img.shields.io/gitlab/contributors/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com) | [☑️](https://about.gitlab.com/move-to-gitlab-from-atlassian/) | end2end DevOps ALM für SEs | 🔍 |
+| BoS (40+) |[**Odoo**](https://github.com/odoo) | ![GitHub Org's stars](https://img.shields.io/github/stars/odoo) | ![GitHub Created At](https://img.shields.io/github/created-at/odoo/odoo) | ![GitHub License](https://img.shields.io/github/license/odoo/odoo) | ![GitHub contributors](https://img.shields.io/github/contributors/odoo/odoo) | [(☑️)](https://www.odoo.com/de_DE/event/odoo-experience-2025-6601/track/from-confluence-to-odoo-knowledge-in-one-click-7445) | Fokus auf ERP & CRM | 🔍 |
+| BoS (6) |**La Suite** numérique | ![GitHub Org's stars](https://img.shields.io/github/stars/suitenumerique) |  | [100% open source and MIT licenced](https://github.com/suitenumerique#%EF%B8%8F-build-with-us) | 158 |  | BoS (6), vieles in BETA, [French Gov](https://github.com/suitenumerique#ℹ%EF%B8%8F-about-la-suite) | 🔍 |
 | BoB | gristlabs/[Grist](https://github.com/gristlabs/grist-core) | ![GitHub Repo stars](https://img.shields.io/github/stars/gristlabs/grist-core) | ![GitHub Created At](https://img.shields.io/github/created-at/gristlabs/grist-core) | ![GitHub License](https://img.shields.io/github/license/gristlabs/grist-core) | ![GitHub contributors](https://img.shields.io/github/contributors/gristlabs/grist-core) |  | flexible Spreadsheets |  |
 | BoB | [Docs](https://github.com/suitenumerique/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/suitenumerique/docs) | ![GitHub Created At](https://img.shields.io/github/created-at/suitenumerique/docs) | ![GitHub License](https://img.shields.io/github/license/suitenumerique/docs) | ![GitHub contributors](https://img.shields.io/github/contributors/suitenumerique/docs) |  |  |  |
+| ... | | | | | | | |
 ---
 ![](https://docs.opendesk.eu/_astro/openDesk-logo-rgb-color.BzVtmso__Zj8OIz.svg)
 
@@ -424,8 +463,8 @@ https://docs.opendesk.eu/user/wissen/
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
 | 💪 | https://zendis.de |
-| 🤕 |                              |
-| 🍀 | [breite Produktvision](https://gitlab.opencode.de/bmi/opendesk/info/-/tree/23.12#produktvision) & [klare Roadmap](https://www.opendesk.eu/de/roadmap) mit monatlichen Releases |
+| 🤕 | Produktfokus (CE, EE) |
+| 🍀 | [breite Vision](https://gitlab.opencode.de/bmi/opendesk/info/-/tree/23.12#produktvision) & [klare Roadmap](https://www.opendesk.eu/de/roadmap) mit monatlichen Releases |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -450,9 +489,9 @@ Why GitLab?
 
 | SWOT | Qualität(en) & Quantität(en) |
 | :- | :--------------------------: |
-| 💪 | [![](https://www.bestpractices.dev/projects/42/badge)](https://www.bestpractices.dev/en/projects/42), https://gitlab.opencode.de |
-| 🤕 |                              |
-| 🍀 |                              |
+| 💪 | [![](https://www.bestpractices.dev/projects/42/badge)](https://www.bestpractices.dev/en/projects/42), https://gitlab.opencode.de, für Einsteiger & Experten |
+| 🤕 | technischer Fokus (git, komplexe Workflows), Produkt (CE & EE) |
+| 🍀 | APIs + CLI |
 | 💥 |                              |
 --
 <!-- .element: data-background-color="DarkSlateGray" -->
@@ -530,15 +569,16 @@ Empfehlung(en) & Diskussion
 
 <a href="https://openhub.net/p/_compare?project_0=Odoo&project_1=GitLab&project_2=XWiki" data-preview-link>openhub Projektvergleich: BoS <> BoB 2</a>
 --
+# 💡
 
+<hr>
+
+🔴
+
+🟡
+
+🟢
 --
 ![](https://docs.opendesk.eu/_astro/openDesk-logo-rgb-color.BzVtmso__Zj8OIz.svg)
 --
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/1000px-GitLab_logo_%282%29.svg.png)](https://commons.wikimedia.org/wiki/File:GitLab_logo_(2).svg)
----
-# Plug-Ins
----
-# Austausch & Diskussion
----
-# ☕ 
-~15'
