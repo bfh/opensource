@@ -13,14 +13,6 @@ Open Source Alternativen
 ### [Source](https://github.com/bfh/opensource/pull/183) licensed under [CC-BY-4.0](https://github.com/bfh/opensource/blob/main/LICENSE)
 
 --
-<!-- .element: data-background-color="SeaGreen" -->
-
-# 🟩 
-
-> Wann ist der heutige Workshop für **dich** ein Erfolg?
-
-🟨 ... 🟥
---
 **(kurze)**
 # Vorstellungsrunde
 --
@@ -29,6 +21,14 @@ Open Source Alternativen
 [Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
 ## [![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")](https://www.eclipse.org/projects/handbook/)
+--
+<!-- .element: data-background-color="SeaGreen" -->
+
+# 🟩 
+
+> Wann ist der heutige Workshop für **dich** ein Erfolg?
+
+🟨 ... 🟥
 ---
 ## 🧑‍💻 .. 🤔 .. ⭐
 
@@ -45,7 +45,7 @@ Teil 1 (~2.5h) - Jira & Confluence
 ☕ Kaffeepause # 2 (~15')
 
 Teil 2 (~1h) - Ausblick auf Anforderungsanalyse
-- Use Cases
+- Use Cases & internationale Trends
 - Wrap-Up & weiteres Vorgehen
 ```
 --
