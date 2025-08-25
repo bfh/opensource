@@ -346,10 +346,6 @@ MediaWiki (nicht BlueSpice) - https://www.mediawiki.org
 | 🤕 | etwas in die Jahre gekommenes UI, Abwärtstrend von [PHP #7 in Top 10 programming languages 2024](https://github.blog/news-insights/octoverse/octoverse-2024/#the-most-popular-programming-languages) |
 | 🍀 | Sehr große Community (Wikimedia-Ökosystem); klare LTS-Policy, [API](https://www.mediawiki.org/wiki/API:Main_page/de) |
 | 💥 |                              |
---
-<!-- .element: data-background-color="DarkSlateGray" -->
-
-# Links & genutzte Ressourcen
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo-xwikiorange.svg/1000px-Logo-xwikiorange.svg.png)](https://commons.wikimedia.org/wiki/File:Logo-xwikiorange.svg)
 
@@ -397,10 +393,6 @@ BookStack - https://www.bookstackapp.com
 | 🤕 | Kein offizieller Confluence-Importer; praxistauglich sind HTML-Exports → Import/Skripte. |
 | 🍀 |                              |
 | 💥 | [zZ kein Plug-In / Extension Support](https://github.com/BookStackApp/BookStack/issues/127) |
---
-<!-- .element: data-background-color="DarkSlateGray" -->
-
-# Links & genutzte Ressourcen
 ---
 # BoB 2
 Empfehlung(en) & Diskussion
@@ -493,10 +485,6 @@ Why GitLab?
 | 🤕 | technischer Fokus (git, komplexe Workflows), Produkt (CE & EE) |
 | 🍀 | APIs + CLI, git-basiert |
 | 💥 |                              |
---
-<!-- .element: data-background-color="DarkSlateGray" -->
-
-# Links & genutzte Ressourcen
 ---
 [![](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png)](https://commons.wikimedia.org/wiki/File:Odoo_Official_Logo.png)
 
@@ -520,10 +508,6 @@ Odoo Knowledge
 | 🤕 | anderer Kernfokus im BoS Ansatz |
 | 🍀 | Sehr breite BoS (40+) |
 | 💥 |                              |
---
-<!-- .element: data-background-color="DarkSlateGray" -->
-
-# Links & genutzte Ressourcen
 ---
 ![](https://lasuite.numerique.gouv.fr/_next/static/media/suite-numerique.ebdb6ce9.svg)
 
@@ -559,10 +543,6 @@ https://docs.numerique.gouv.fr
 | 🤕 | zZ vieles noch als BETA deklariert |
 | 🍀 |                              |
 | 💥 |                              |
---
-<!-- .element: data-background-color="DarkSlateGray" -->
-
-# Links & genutzte Ressourcen
 ---
 # BoS 3
 Empfehlung(en) & Diskussion
