@@ -37,7 +37,7 @@ https://semver.org
 --
 <!-- .element: data-background-color="SeaGreen" -->
 
-`WST-25-1x1.7`
+`WST-25-1x1.07`
 
 # 🔢
 
@@ -85,7 +85,7 @@ typical
 --
 <!-- .element: data-background-color="SeaGreen" -->
 
-`WST-25-1x1.8`
+`WST-25-1x1.08`
 
 # 🐙
 
@@ -113,7 +113,7 @@ Committer, Authors, Reviewer, Maintainer, ...
 --
 <!-- .element: data-background-color="SeaGreen" -->
 
-`WST-25-1x1.9`
+`WST-25-1x1.09`
 
 # 📝
 
