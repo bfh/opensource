@@ -63,8 +63,6 @@ Das **"kleine 1x1" des professionellen Umgangs** mit Quelloffenheit
 
 [Climbing the Open Source Ladder](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module2/README.md#climbing-the-open-source-ladder)
 --
-![](https://digital-sustainability.github.io/module-eoss-ospo101/module2/involvement-over-time.png)
---
 ![](https://github.com/baloise/open-source/raw/main/docs/arc42/images/os-maturity-model.png)
 --
 <!-- .element: data-background-color="SeaGreen" -->

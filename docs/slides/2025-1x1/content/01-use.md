@@ -1,5 +1,9 @@
 # Open Source (Software)
 Einführung
+
+<hr>
+
+[OSPO-101.1](https://digital-sustainability.github.io/module-eoss-ospo101/module1/)
 --
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Open_Source_Initiative.svg/366px-Open_Source_Initiative.svg.png)](https://opensource.org/osd/)
 
@@ -73,13 +77,17 @@ führen oftmals automatisch zum **Erlöschen der Lizenz**. Nutzt man die Softwar
 
 Rechtsfolge: **Schadenersatzansprüche, Strafrecht, Reputationsschäden**
 --
-![](https://www.welt.de/img/wirtschaft/mobile157906274/1601626057-ci23x11-w1600/Volkswagen-Tiguan-in-Einzelteile-zerlegt.jpg)
+<!-- .element: data-background-color="SeaGreen" -->
 
-[SBOMs](https://de.wikipedia.org/wiki/Software-Lieferkette) of modern applications [show](https://www.sonatype.com/state-of-the-software-supply-chain/): **80 - 90%** (heavily) use open source components
+`WST-25-1x1.05.1`
+
+# 📦
+
+> Schätze: Wie viele individuelle Software-Module nutzt **diese** aktuelle Präsentation?
 --
 <!-- .element: data-background-color="SeaGreen" -->
 
-`WST-25-1x1.05`
+`WST-25-1x1.05.2`
 
 # 🔭
 
