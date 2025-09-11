@@ -78,9 +78,30 @@ Build escalators not elevators
 --
 ![](https://digital-sustainability.github.io/module-eoss-ospo101/module5/questions.png)
 --
+# Pflicht(en)
+
+## Kennen 💡
+
+## Einhalten ✅
+--
+# Art(en)
+
+- **Kennzeichnung** und Hinweise (Attribution)
+- **Verfügbarkeit des Quellcodes**
+- **Reziprozität** der Lizenz : Copyleft
+- **weitere Bestimmungen** zB Abgrenzungen zum Trademark
+--
 [![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Floss-license-slide-image.svg)](https://en.wikipedia.org/wiki/File:Floss-license-slide-image.svg)
 
 [Compatibility of FOSS licenses](https://en.wikipedia.org/wiki/License_compatibility#Compatibility_of_FOSS_licenses)
+--
+# Events
+
+Zeipunkt(e)
+
+## 1. "Distribution"
+
+## 2. "Modification"
 --
 ![](https://www.ossdirectory.com/de/assets/images/OSSD_Logo_rgb.svg)
 
