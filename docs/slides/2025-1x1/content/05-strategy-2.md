@@ -97,7 +97,7 @@ Build escalators not elevators
 --
 # Events
 
-Zeipunkt(e)
+Zeitpunkt(e)
 
 ## 1. "Distribution"
 
