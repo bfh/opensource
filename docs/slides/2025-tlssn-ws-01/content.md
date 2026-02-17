@@ -20,7 +20,7 @@ Open Source Alternativen
 
 [Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
-## [![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")](https://www.eclipse.org/projects/handbook/)
+## [![Friend of Eclipse](https://download.eclipse.org/oomph/www/installer/FriendsOfEclipse.png "Friend of Eclipse")](https://www.eclipse.org/projects/handbook/)
 --
 <!-- .element: data-background-color="SeaGreen" -->
 
