@@ -13,7 +13,7 @@ CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/open-source/blob/m
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
-[Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
+[Markus Tiede](http://www.mtiede.de) 👨‍🏫 [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - [BFH OSPO](https://bfh.ch/opensource) Chair <br> Board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
-![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
+![Friend of Eclipse](https://download.eclipse.org/oomph/www/installer/FriendsOfEclipse.png "Friend of Eclipse")
 ---
