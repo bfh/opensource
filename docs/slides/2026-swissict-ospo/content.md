@@ -21,10 +21,6 @@ CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/open-source/blob/m
 
 ## Standorte & Maturitätsmodell(e)
 --
-![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO-101/module2/os-ladder.png)
-
-[Climbing the Open Source Ladder](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module2/README.md#climbing-the-open-source-ladder)
---
 ![](https://github.com/baloise/open-source/raw/main/docs/arc42/images/os-maturity-model.png)
 --
 <!-- .element: data-background-color="SeaGreen" -->
@@ -36,6 +32,10 @@ CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/open-source/blob/m
 > Auf welcher Stufe siehst du deine Organisation und warum?
 
 ..., -1, **0, 0.5, 1, 2, 3, 4**
+--
+![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO-101/module2/os-ladder.png)
+
+[Climbing the Open Source Ladder](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module2/README.md#climbing-the-open-source-ladder)
 ---
 # OSPOs
 
