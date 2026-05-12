@@ -104,7 +104,7 @@ https://www.bestpractices.dev
 |                    | Symbol    |            |
 |-------------------:| :-------: | :--------- |
 | Name des Projektes |           | offizieller Name inkl. Link zum Quellcode-Repository des Projektes |
-| Beliebheit         | ⭐        | (sehr) viele Plattformen nutzen dies als primäres Sortierkrtierium |
+| Beliebtheit         | ⭐        | (sehr) viele Plattformen nutzen dies als primäres Sortierkriterium |
 | Startzeitpunkt des Projektes > Alter      | ▶️        |            |
 | Lizenz            | ⚖️        | öffentlich ausgewiesene Lizenz des Projektes |
 | Anzahl Contributoren            | 🧑‍💻        | Wie viele Menschen wirken im Hintergrund am Projekt mit |
