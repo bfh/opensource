@@ -10,9 +10,7 @@
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
-[Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) & [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
-
-[![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")](https://www.eclipse.org/projects/handbook/)
+[Markus Tiede](http://www.mtiede.de) 👨‍🏫 [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) - [BFH OSPO](https://bfh.ch/opensource) Chair <br> Board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 ---
 # 🧱
 ## Organisatorisches
