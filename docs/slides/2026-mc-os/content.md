@@ -512,7 +512,7 @@ https://obsproject.com
 --
 [<img src="https://user-images.githubusercontent.com/1777143/153183461-03a0e0b4-239a-4c7b-a49d-a285be828f09.png" width="700px">](https://www.poinz.app)
 
-https://www.poinz.app/bfh-micro-course
+https://poinz.io/bfh-micro-course
 ---
 # 2️⃣ 0️⃣
 
