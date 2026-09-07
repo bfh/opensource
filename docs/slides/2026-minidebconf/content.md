@@ -6,7 +6,7 @@
 
 ### for education and e-assessments
 
-slides online 👉🏼 https://ige.li/mdc26
+👉🏼 [recording (35min) & slides (PDF)](https://ch2026.mini.debconf.org/talks/20-lernstick-linux-a-portable-distro-for-education-and-e-assessments/)
 
 <br />
 📧 <a href="mailto:joerg.berkel@bfh.ch">joerg.berkel@bfh.ch</a><br />
@@ -37,7 +37,7 @@ In this 30-40min talk I want to…
 
 1. who
 1. why & what
-1. debian-livebuild: `build_exam_iso.sh`
+1. debian live-sbuild: `build_exam_iso.sh`
 1. specialties, `virt-manager`
 1. what's next?
 1. how you can contribute
@@ -96,13 +96,14 @@ free/libre operating system based on<br />Debian GNU/Linux ([german Wikipedia](h
 
 ### what?
 
-- <img src="https://www.debian.org/logos/openlogo-nd.svg" width="40px" style="vertical-align: bottom;"> [Debian Live](https://wiki.debian.org/DebianLive) with [OverlayFS](https://en.wikipedia.org/wiki/OverlayFS) on<br/>fast USB-flashdrives ⚡
-- custom kernel for broad hardware support
-- software backports in own repository and Flatpak
-- Secure Boot [GRUB 2](https://www.gnu.org/software/grub/) (UEFI) / [gfxboot](https://en.opensuse.org/SDB:Gfxboot) (BIOS)
-- window managers:
-  - **GNOME**, KDE Plasma, Cinnamon, MATE, Xfce, LXDE, Enlightenment
-- multiple languages/keyboards (also Mac!)
+<ul>
+<li><img src="https://www.debian.org/logos/openlogo-nd.svg" width="40px" style="vertical-align: bottom;"><a href="https://wiki.debian.org/DebianLive">Debian Live</a> with <a href="https://en.wikipedia.org/wiki/OverlayFS">OverlayFS</a> on<br/>fast USB-flashdrives ⚡
+<li class="fragment">custom kernel for broad hardware support
+<li class="fragment">Secure Boot <a href="https://www.gnu.org/software/grub/">GRUB 2</a> (UEFI) / <a href="https://en.opensuse.org/SDB:Gfxboot">gfxboot</a> (BIOS)
+<li class="fragment">software backports in own repository and Flatpak
+<li class="fragment" style="margin: 20px 0;">window managers:<br/><strong>GNOME</strong>, KDE Plasma, Cinnamon, MATE,<br />Xfce, LXDE, Enlightenment
+<li class="fragment">multiple languages/keyboards (also Mac!)
+</ul>
 
 --
 
@@ -147,7 +148,7 @@ sudo ./build_exam_iso.sh            # hint: tmux or screen
 
 Note:
 
-- only 20min next time
+- only 20min next run
 - maybe speedup squash compression
 
 --
@@ -162,11 +163,11 @@ add/remove programs<br /><br />
 
 #### 📁 config/packages.chroot/
 
-add your deb-files: i.e. [apple-firmware_14.8.3-1_all.deb](https://github.com/AdityaGarg8/Apple-Firmware/releases/download/debian/apple-firmware_14.8.3-1_all.deb)
+add your deb-files:<br />i.e. [apple-firmware_14.8.3-1_all.deb](https://github.com/AdityaGarg8/Apple-Firmware/releases/download/debian/apple-firmware_14.8.3-1_all.deb)
 
 --
 
-### configure programs: autostart / dash / wifi
+<h3>configure programs:<br />autostart / dash / wifi</h3>
 
 ##### 📁 config/includes.chroot_after_packages/
 
@@ -180,7 +181,7 @@ add your deb-files: i.e. [apple-firmware_14.8.3-1_all.deb](https://github.com/Ad
 
 ### Lernstick apps: Welcome & ...
 
-- etc/lernstickWelcome
+`etc/lernstickWelcome`
 
 ```
 AutoStartInstaller=false
@@ -199,7 +200,7 @@ ShowWelcome=false
 
 ### ... Storage media management
 
-- root/.java/.userPrefs/ch/fhnw/dlcopy/gui/swing/prefs.xml
+<small><code>root/.java/.userPrefs/ch/fhnw/dlcopy/gui/swing/prefs.xml</code></small>
 
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -211,7 +212,7 @@ ShowWelcome=false
 </map>
 ```
 
-mode: 0 = rw, 1 = ro, 2 = not used
+1st boot mode: 0 = rw, 1 = ro, 2 = not used
 
 --
 
@@ -221,7 +222,7 @@ mode: 0 = rw, 1 = ro, 2 = not used
 
 - lib/systemd/[lernstick-user-setup](https://github.com/Lernstick/lernstick-config/blob/master/lib/systemd/lernstick-user-setup#L60-L66) (password)
 - etc/lernstick-firewall/proxy.d/[default.conf](https://github.com/Lernstick/lernstick-firewall/blob/master/etc/lernstick-firewall/proxy.d/default.conf)
-- [usr/share/polkit-1/rules.d/\*](https://github.com/Lernstick/lernstick-usertemplate/blob/exam-debian13/usr/share/polkit-1/rules.d/lernstick-udisks2-mount-system.rules)<br />YES -> AUTH_SELF_KEEP
+- [usr/share/polkit-1/rules.d/\*](https://github.com/Lernstick/lernstick-usertemplate/blob/exam-debian13/usr/share/polkit-1/rules.d/lernstick-udisks2-mount-system.rules)<br />`YES ➡ AUTH_SELF_KEEP`
 
 <hr style="border: 2px solid #567585; border-radius: 2px;">
 
@@ -236,7 +237,8 @@ mode: 0 = rw, 1 = ro, 2 = not used
 - 💻 supported hardware, kernel patches:
   - [Surface tablets](https://github.com/linux-surface/linux-surface/)
   - [Intel-Macs](https://github.com/t2linux/linux-t2-patches) (w/o wifi-firmware), touchbar
-  - Modules: virtualbox, v4l, nvidia, (nvidia-open), broadcom-sta, rtl88x2bu
+  - modules: virtualbox, v4l, nvidia, (nvidia-open), broadcom-sta, rtl88x2bu
+  - hybrid-shim (Microsoft UEFI CA 2011 **&** 2023)
 
 Note:
 
@@ -244,12 +246,14 @@ Note:
 
 --
 
-- mobile persistence, LUKS by default 🔐
-- (optional) Btrfs with snapshots 📸
-- EXAM: hidden partition for rdiff-backups (exchange, unencrypted)
-- EXAM: automatic screenshots
-- accessibility in [GNOME](https://developer.gnome.org/hig/guidelines.html)
-  - loupe, contrast, visual keyboard, ...
+<ul>
+<li>mobile persistence, LUKS by default 🔐
+<li class="fragment">(optional) Btrfs with snapshots 📸
+<li class="fragment">EXAM: hidden partition for rdiff-backups ("exchange", unencrypted)
+<li class="fragment">EXAM: squid webfilter (<a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack">MITM</a>)
+<li class="fragment">EXAM: automatic screenshots
+<li class="fragment">accessibility in <a href="https://developer.gnome.org/hig/guidelines.html">GNOME</a>:<br />loupe, contrast, visual keyboard, ...
+</ul>
 
 --
 
@@ -285,10 +289,11 @@ Note:
 
 UEFI-Booting the ISO with `OVMF_CODE_4M.secboot.fd`:
 
-- disable PXE boot (=boot order)
+- (disable PXE boot via boot order)
 - select English language
 - select Swiss-german keyboard
 - unlock VM detection with password
+- `Ctrl + Alt + F3` for tty
 
 ---
 
@@ -316,13 +321,17 @@ UEFI-Booting the ISO with `OVMF_CODE_4M.secboot.fd`:
 
 ### contrib / [issues](https://issues.lernstick.ch/)
 
-- create something useful and [share it](https://forum.lernstick.ch/)!
-- bachelor / master thesis:
-  - bluetooth firewall
-  - grub videomode renderer (hires)
-- nvidia standby bug
-- test hardware: chromebooks & howto
-- l10n, a11y, ...
+<ul>
+<li>create something useful and <a href="https://forum.lernstick.ch/">share it</a>!
+<li class="fragment">bachelor / master thesis:
+ <ul>
+  <li class="fragment">bluetooth firewall
+  <li class="fragment">grub videomode renderer (hires displays)
+ </ul>
+<li class="fragment">nvidia standby bug
+<li class="fragment">test hardware: chromebooks & howto
+<li class="fragment">l10n, a11y, ...
+</ul>
 
 ---
 
@@ -342,38 +351,53 @@ UEFI-Booting the ISO with `OVMF_CODE_4M.secboot.fd`:
 - Andreas Mundt:<br />[CLT23: FLOSS im Bildungssystem: Debian Live Netboot on Top!](https://media.ccc.de/v/clt23-170-floss-im-bildungssystem-debian-live-netboot-on-top)
 - Tails: [good documentation](https://tails.net/doc/first_steps/start/pc/index.en.html#index3h1) (Tor Project 🧅)
 
-➡ My [recorded talk in german](https://media.ccc.de/v/froscon2025-3348-lernstick_linux_als_personliche_lern-_oder_abgesicherte_prufungsumgebung) at FrOScon 2025 give you a first glimpse into Lernstick from the user’s side ([PDF slides](https://cfp.froscon.org/system/event_attachments/attachments/000/000/918/original/250818-froscon-lernstick-campla.pdf))
+➡ My [recorded talk in german](https://media.ccc.de/v/froscon2025-3348-lernstick_linux_als_personliche_lern-_oder_abgesicherte_prufungsumgebung) at FrOScon 2025 gives you a first glimpse into Lernstick from the user’s side ([PDF slides](https://cfp.froscon.org/system/event_attachments/attachments/000/000/918/original/250818-froscon-lernstick-campla.pdf))
 
 --
 
 ### credits (core teams) 🧑🏼‍🏭
 
-**Lernstick**:
+<table border="0">
+ <th>Lernstick &nbsp; &</th>
+ <th>CAMPLA</th>
+  <tr>
+    <td>
+        <ul>
+            <li>Thore 🎁</li>
+            <li>Roman</li>
+            <li>Gaudenz</li>
+            <li>Ronny</li>
+        </ul> 
+    </td>
+    <td style="vertical-align: top">
+        <ul>
+            <li>Ivan</li>
+            <li>Merima 🎁</li>
+            <li>Simon 🎁</li>
+        </ul> 
+    </td>
+ </tr>
+</table>
 
-- Thore 🎁
-- Roman
-- Gaudenz
-- Ronny
+Thanks to **many more**<br />and Asahi Linux Community 👋🏼
 
-**CAMPLA**:
-
-- Ivan
-- Merima 🎁
-- Simon 🎁
-
-.. **many more** and Asahi Linux Community
-
----
+--
 
 ### merci!
 
-Presentation made with [reveal.js](https://github.com/bfh/reveal.js/)<br />
+presentation made with [reveal.js](https://github.com/bfh/reveal.js/)<br />
 PDF export with [decktape](https://github.com/astefanutti/decktape/)<br />
 
-![CC-by Lernstick](https://i.creativecommons.org/l/by/4.0/88x31.png "CC-by Lernstick/Virtuelle Akademie")
-[bfh.ch/virtuelle-akademie](https://www.bfh.ch/virtuelle-akademie)<br />
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="CC-by Lernstick/Virtuelle Akademie" style="vertical-align: text-top;"> [bfh.ch/virtuelle-akademie](https://www.bfh.ch/virtuelle-akademie)<br />
+
 [source](https://github.com/bfh/opensource/blob/main/docs/slides/2026-minidebconf/content.md) licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)<br /><br />
 
 #### get a sticker-sheet! 💻
 
 (_made with Scribus & Inkscape_)
+
+--
+
+<!-- .slide: data-background="#fff5c1" -->
+
+![](content/lernstick-campla-sticker.png)
