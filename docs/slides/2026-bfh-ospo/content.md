@@ -61,19 +61,19 @@ https://github.com/orgs/bfh/projects/1
 
 | 🔢  |               🎯 Ziel             | 🔍 Metrik - pro Jahr    |
 |----|:---------------------------------:|-------------------------|
-| 1. |        4 x  Anlaufpunkt           | Beratungsmandate        |
-| 2. |           2 x  BFH‑Website        | https://bfh.ch/opensource |
-|    |            6-12 x                 | https://bfh.github.io | 
-| 3. |  20+ x Erfahrungsaustausch        | Community of Practice (CoP) Bi-Weeklies |
-| 4. |   Konsolidierung                  | [Organisationsprofile](https://ossbenchmark.com/institutions/bfh) |
+| 1. |        4 x 1h Anlaufpunkt         | 1 x 8h: Beratungsmandate        |
+| 2. |           2 x  BFH‑Website        | 1 x https://bfh.ch/opensource |
+|    |            6-12 x                 | 10+ x https://bfh.github.io | 
+| 3. |  20+ x Erfahrungsaustausch        | 12 x Community of Practice (CoP) Bi-Weeklies |
+| 4. |   Konsolidierung                  | +2 [Organisationsprofile](https://ossbenchmark.com/institutions/bfh) |
 
 --
 | 🔢  |               🎯 Ziel                 | 🔍 Metrik - pro Jahr    |
 |----|:-------------------------------------:|-------------------------|
-| 5. |        2 x Kommunikation              | Vorstellung OSPO |
-| 6. |       4 x Öffentlichkeitsarbeit       | Vorstellung BFH OSPO und Inhalte                                                                                                                                |
-| 7. |          2 x  Kommunikation           | Beiträge: Top News, Produkte, Events, ...                                                                                                                       |
-| 8. |            1 x Reporting              |  ca. 1h Steuerungsmeeting | jährlicher Austausch mit der Fachstelle Open Science zum Stand der Aktivitäten                                                                               |
+| 5. |        2 x Kommunikation              | 2 x Vorstellung OSPO |
+| 6. |       4 x Öffentlichkeitsarbeit       | 4 x Vorstellung BFH OSPO und Inhalte                                                                                                                                |
+| 7. |          2 x  Kommunikation           | 0 x Beiträge: Top News, Produkte, Events, ...                                                                                                                       |
+| 8. |            1 x Reporting              | 1 x ca. 1h Steuerungsmeeting | jährlicher Austausch mit der Fachstelle Open Science zum Stand der Aktivitäten                                                                               |
 
 ---
 # 📖
